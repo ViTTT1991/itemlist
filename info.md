@@ -37,23 +37,17 @@ permalink: /info
 
 # Welcome
 
-Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
-This stream uses the mod
-[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) to provide an
-interactive experience. There's a lot to the mod that may seem complicated to even more experienced
-users, but this short guide will help you get the hang of things.
+Добро пожаловать на стрим [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }}).
+На этом стриме используется мод
+[Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) для обеспечения интерактивности. В моде есть многое, что может показаться сложным даже более опытным пользователям, но это краткое руководство поможет вам освоиться.
 
-## What is Twitch Toolkit?
+## Что такое Twitch Toolkit?
 
-Twitch Toolkit is a mod by hodlhodl that allows viewers to affect the game in a number of ways. The
-most prominent is its [store]({{- "/" | relative_url -}}), which allows you to purchase a number of
-things the streamer curated. Depending on the purchase, these things appear in-game or affect the
-game in some way. Another way viewers can interact with the game is through the mod's polls. The
-choices in these polls depend heavily on what's enabled in the mod.
+Twitch Toolkit — это мод от hodlhodl, который позволяет зрителям влиять на игру разными способами. Самым известным из них является [store]({{- "/" | relative_url -}}), в котором можно приобрести ряд вещей, созданных стримером. В зависимости от покупки эти вещи появляются в игре или каким-либо образом влияют на игру. Еще один способ взаимодействия зрителей с игрой — опросы мода. Выбор в этих опросах во многом зависит от того, что включено в моде.
 
-## What Are Coins?
+## Что такое монеты?
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+Монеты — это валюта мода. Посмотреть свой баланс можно с помощью "!баланс" команды. 
 
 {% if utils == true %}
 You'll notice the balance command may have some new emojis. If that's the case, here is an overview
@@ -75,21 +69,15 @@ You'll always get a new lootbox everyday.
 
 
 <br/>
-## What is Karma?
+## Что такое Карма?
 
-Karma is a system in the mod that tries to limit the amount of negative events a viewer can purchase at
-one time. This system works by directly modifying that amount of coins viewers get everytime the mod
-awards coins. This means that the lower you karma is, the lower your coin gain is. The hope is that
-negative events get spread out more so the colony can recover.
+Карма — это система в моде, которая пытается ограничить количество негативных событий, которые зритель может приобрести за один раз. Эта система работает путем прямого изменения количества монет, которые зрители получают каждый раз, когда мод награждает монетами. Это означает, что чем ниже ваша карма, тем меньше ваш выигрыш в монетах. Есть надежда, что негативные события будут распространяться дальше, и колония сможет восстановиться.
 
-## How Do I Use Twitch Toolkit?
+## Как использовать Twitch Toolkit?
 
-You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
-command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
-every command here, but most commands should generally be self-descriptive or have a description of
-what they do on the [commands]({{- "/commands" | relative_url -}}) page.
+Вы можете использовать Twitch Toolkit несколькими способами, наиболее известный из которых — использование его
+[commands]({{- "/commands" | relative_url -}}). Более важной командой является `{{- buy -}}` 
+команда, которая является точкой входа модов в покупку вещей в магазине. Другими примечательными командами являются команды, которые позволяют вам видеть различную информацию о вашей пешке. Мы не будем рассматривать здесь каждую команду, но большинство команд, как правило, должны быть самоописательными или иметь описание того, что они делают, на странице [commands]({{- "/commands" | relative_url -}}) .
 
 
 {%- if puppeteer -%}
