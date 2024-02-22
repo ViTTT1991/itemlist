@@ -1,107 +1,107 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
+		"abr": "ПогодаТорнадо",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
+		"abr": "ПогодаМногоТорнадо",
 		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "ПогодаЯсно",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rain",
+		"abr": "ПогодаДождь",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
+		"abr": "ПогодаРвотныйДождь",
 		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "foggyrain",
+		"abr": "ПогодаТуманныйДождь",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rainythunderstorm",
+		"abr": "ПогодаДождьСГрозой",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "drythunderstorm",
+		"abr": "ПогодаСухойШторм",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "snowgentle",
+		"abr": "ПогодаСнег",
 		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "snowhard",
+		"abr": "ПогодаСнегопад",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "fog",
+		"abr": "ПогодаТуман",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "heatwave",
+		"abr": "ПогодаЖара",
 		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
+		"abr": "ПогодаГрозовойШторм",
 		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "coldsnap",
+		"abr": "ПогодаПохолодание",
 		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
+		"abr": "ПогодаСолнечнаяВспышка",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shortcircuit",
+		"abr": "КороткоеЗамыкание",
 		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
+		"abr": "ПогодаТоксическиеОсадки",
 		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "volcanicwinter",
+		"abr": "ПогодаВулканическаяЗима",
 		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "eclipse",
+		"abr": "ПогодаЗатмение",
 		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
+		"abr": "Аврора",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
+		"abr": "Портить",
 		"price": 700,
 		"karmatype": "Bad"
 	},
@@ -111,330 +111,290 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
+		"abr": "ЖивотныеПрисоединяются",
+		"price": 50,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ПадениеОбломков",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "tradercaravan",
+		"abr": "ТорговецКараван",
 		"price": 275,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
+		"abr": "ТорговецОрбитальный",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
+		"abr": "ПадениеМетеорит",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
+		"abr": "ДобавитьЧеловекВЧерном",
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "madanimal",
+		"abr": "ЖивотныеСумашествие",
 		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicdrone",
+		"abr": "ПсихДрон",
 		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicsoothe",
+		"abr": "ПсихУмиротворение",
 		"price": 250,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ambrosiasprout",
+		"abr": "Амброзия",
 		"price": 150,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
+		"abr": "ЖивотныеМиграция",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
+		"abr": "ЖивотныеПотерянные",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
+		"abr": "ЖивотныеДикийЧеловек",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rarethrumbos",
+		"abr": "ЖивотныеДикиеТрумбо",
 		"price": 500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
+		"abr": "ПадениеОбломковКорабля",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
+		"abr": "Путешественники",
 		"price": 80,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
+		"abr": "Гости",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
+		"abr": "ДобавитьРандомныйСкилл",
 		"price": 700,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
+		"abr": "Вечеринка",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ЖивотныеАльфабобры",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoisonПадениеЯдовитогоКорабля",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПадениеПсихКорабля",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Союзники",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Рейд",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
+		"abr": "РейдДроп",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "sapperraid",
+		"abr": "РейдСаперы",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "siegeraid",
+		"abr": "РейдОсада",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
+		"abr": "РейдМеханоиды",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "infestation",
+		"abr": "БолезньЗаражение",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "manhunterpack",
+		"abr": "РейдЖивотныеЛюдоеды",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "predators",
+		"abr": "РейдХищники",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "randomdisease",
+		"abr": "БолезньСлучайная",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
+		"abr": "БолезньНеобычная",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "levelskill",
+		"abr": "ВоскреситьРандома",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "trait",
+		"abr": "ДобавитьПешку",
 		"price": 1,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "removetrait",
+		"abr": "ДобавитьЧерту",
 		"price": 1,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
+		"abr": "УбратьЧерту",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ИзменитьПол",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
+		"abr": "ДобавитьУзник",
 		"price": 800,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitcolony",
+		"abr": "ПосетитьКолониюКакГость",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "randominspire",
+		"abr": "Вдохновение",
 		"price": 450,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
+		"abr": "Голосование2",
 		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
+		"abr": "Голосование1",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rescueme",
-		"price": 800,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
+		"abr": "ВоскреситьВсех",
 		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВоскреситьСебя",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьВсех",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьРандома",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьСебя",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "СпаситеМеня",
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "backpack",
+		"abr": "ВылечитьСебяПолностью",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ДобавитьСкилл",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Рюкзак",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "settraits",
+		"abr": "ДобавитьЧерту",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "use",
-		"price": 1,
+		"abr": "ИзменитьДетство",
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "wear",
-		"price": 1,
+		"abr": "ИзменитьЗрелость",
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
+		"abr": "БолезньВозгорание",
 		"price": 2500,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "sanctuary",
+		"abr": "Святыня",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 79
 }
