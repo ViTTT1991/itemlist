@@ -3,132 +3,6 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
-    "usage": "!refreshviewers",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "RefreshViewers"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Awards all active viewers coins.",
-    "name": "Karma round",
-    "usage": "!karmaround",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "KarmaRound"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives eveyrone coins.",
-    "name": "Give all coins",
-    "usage": "!giveallcoins <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveAllCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives a viewer coins.",
-    "name": "Give coins",
-    "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows the balance of a given user.",
-    "name": "Check user",
-    "usage": "!checkuser <viewer>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "CheckUser"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Sets the current karma for a given user.",
-    "name": "Set karma",
-    "usage": "!setkarma <viewer> <karma>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "SetKarma"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Toggles coin generation.",
-    "name": "Toggle coins",
-    "usage": "!togglecoins",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
       "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
@@ -136,7 +10,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Shows your current balance, karma, and optionally, the amount of coins earned per cycle.",
+    "description": "Показывает текущий баланс, карму и сколько зарабатываешь за цикл.",
     "name": "Check balance",
     "usage": "!баланс",
     "userLevel": "Anyone",
@@ -154,25 +28,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "WhatIsKarma"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
+    "description": "Ссыль на страницу магазина.",
     "name": "Purchase list",
     "usage": "!магазин",
     "userLevel": "Anyone",
@@ -190,7 +46,7 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
+    "description": "Подарить другому пользователю монеты. Команда в формате: !датьденег <Ник> <кол-во>",
     "name": "Gift coins",
     "usage": "!датьденег <viewer> <amount>",
     "userLevel": "Anyone",
@@ -208,32 +64,14 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Стать в бесплатную очередь на получение своей пешки (из игры).",
     "name": "Join queue",
     "usage": "!вочередь",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
   },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod info",
-    "usage": "!modinfo",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModInfo"
-  },
-  {
+    {
     "data": {
       "isShortcut": false,
       "isBuy": true,
@@ -244,66 +82,12 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Купить предмет или событие. Некоторые события, такие как рейд - нужно указывать самостоятельно цену.",
     "name": "Buy",
     "usage": "!купить",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Buy"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "LevelSkillShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod settings",
-    "usage": "!modsettings",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModSettings"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Instructions"
   },
   {
     "data": {
@@ -316,7 +100,7 @@
       "localCooldown": 300,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
+    "description": "Показывает все доступные команды.",
     "name": "All commands",
     "usage": "!команды",
     "userLevel": "Anyone",
@@ -325,114 +109,6 @@
   },
   {
     "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "InstalledMods"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!класс",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
-    "name": "Set favorite color",
-    "usage": "!setfavoritecolor <color>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "SetFavoriteColor"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
-    "name": "Set favourite colour",
-    "usage": "!setfavouritecolour <color>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "SetFavouriteColour"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Dye apparel",
-    "usage": "!dye",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DyeApparel"
-  },
-  {
-    "data": {
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
@@ -442,25 +118,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAllShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
+    "description": "Воскрешает Вашего персонажа. Стоимость 2000.",
     "name": "Revive me",
     "usage": "!воскресить",
     "userLevel": "Anyone",
@@ -478,9 +136,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Лечит одну травму. Стоимость 500.",
     "name": "Heal me",
-    "usage": "!вылечитьменя",
+    "usage": "!ВылечитьМеня",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "HealMeShortcut"
@@ -496,7 +154,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Полностью излечивает всех пешек. Стоимость 3000.",
     "name": "Healall",
     "usage": "!вылечитьвсех",
     "userLevel": "Anyone",
@@ -514,210 +172,12 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
-    "name": "Passion shuffle",
-    "usage": "!passionshuffle [skill]",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "PassionShuffleShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "SurgeryShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Add trait",
-    "usage": "!черта",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "TraitShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Remove trait",
-    "usage": "!убратьчерту",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RemoveTraitShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAnyPawnShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAnyPawnShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
-    "usage": "!replacetrait <old> <new>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReplaceTraitShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "BackpackShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Downgrades a skill's passion... sometimes.",
-    "name": "Remove passion",
-    "usage": "!removepassion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RemovePassionShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Upgrades a skill's passion... sometimes.",
-    "name": "Add passion",
-    "usage": "!умение <skill>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "AddPassionShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
+    "description": "Полностью излечивает Вашу пешку. Стоимость 1000",
     "name": "Full heal",
     "usage": "!исцелить",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "FullHealShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Rescue me",
-    "usage": "!rescueme",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "RescueMeShortcut"
   },
   {
     "data": {
@@ -730,7 +190,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Показывает кол-во убитых Вами существ.",
     "name": "Viewer kill count",
     "usage": "!сколькоубил",
     "userLevel": "Anyone",
@@ -748,9 +208,9 @@
       "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your current stats within a given category.",
+    "description": "Показывает Ваши статы.",
     "name": "Viewer stats",
-    "usage": "!статы [stat1] [stat2]",
+    "usage": "!статы",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnStats"
@@ -766,9 +226,9 @@
       "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "description": "Показывает Ваше здоровье.",
     "name": "Viewer health",
-    "usage": "!здоровье [capacity]",
+    "usage": "!здоровье",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnHealth"
@@ -784,7 +244,7 @@
       "localCooldown": 500,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Показывает Ваши нужды.",
     "name": "Viewer needs",
     "usage": "!нужды",
     "userLevel": "Anyone",
@@ -802,7 +262,7 @@
       "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows an overview of your pawn's gear.",
+    "description": "Показывает что на тебе надето.",
     "name": "Viewer gear",
     "usage": "!моивещи",
     "userLevel": "Anyone",
@@ -820,7 +280,7 @@
       "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Описывает Ваше тело",
     "name": "Viewer body",
     "usage": "!тело",
     "userLevel": "Anyone",
@@ -835,28 +295,10 @@
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
       "hasLocalCooldown": true,
-      "localCooldown": 300,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
-    "usage": "!работа [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnWork"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": true,
       "localCooldown": 600,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Краткая биография Вашей пешки",
     "name": "Viewer story",
     "usage": "!история",
     "userLevel": "Anyone",
@@ -874,7 +316,7 @@
       "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Умения Вашей пешки.",
     "name": "Viewer skills",
     "usage": "!скилы",
     "userLevel": "Anyone",
@@ -892,7 +334,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
+    "description": "Использовать если вы купили пешку, но она не с Вашим именем.",
     "name": "Fix viewer pawn",
     "usage": "!починитьимя",
     "userLevel": "Anyone",
@@ -910,25 +352,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Fix all pawns",
-    "usage": "!fixallpawns",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "FixAllPawns"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn leave the colony.",
+    "description": "Ваша пешка покидает колонию.",
     "name": "Abandon pawn",
     "usage": "!уйти",
     "userLevel": "Anyone",
@@ -946,45 +370,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's relationships to other viewers.",
-    "name": "Viewer relations",
-    "usage": "!mypawnrelations [viewer]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PawnRelations"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Factions",
-    "usage": "!factions",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Factions"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "description": "Показывает текущее исследование.",
     "name": "Research",
-    "usage": "!исследование [project/item]",
+    "usage": "!исследование",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Research"
@@ -1000,79 +388,7 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
-    "name": "Lookup",
-    "usage": "!lookup <item/category> [query]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Lookup"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
-    "name": "Price check",
-    "usage": "!price <item/category> [query]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PriceCheck"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Unstick",
-    "usage": "!unstick",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "UnstickAll"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Toggle store",
-    "usage": "!togglestore",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleStore"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
+    "description": "Ваша пешка начинает оскорблять рандомную. Если нужно оскорбить кого-то конкретно - !оскорбить [ник]",
     "name": "Insult",
     "usage": "!оскорбить [target]",
     "userLevel": "Anyone",
@@ -1090,7 +406,7 @@
       "localCooldown": 30,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
+    "description": "Пешка начинает общаться с рандомной пешкой Если нужно поговорить с конкретной - !поговорить [ник].",
     "name": "Chat",
     "usage": "!поговорить [target]",
     "userLevel": "Anyone",
@@ -1108,7 +424,7 @@
       "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
+    "description": "Пешка начинает флиртовать с рандомной пешкой Если нужно поговорить с конкретной - !флирт [ник].",
     "name": "Flirt",
     "usage": "!флирт [target]",
     "userLevel": "Anyone",
@@ -1126,137 +442,11 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
-    "name": "Deep chat",
-    "usage": "!deepchat [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "DeepChat"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Colony wealth",
-    "usage": "!wealth",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Wealth"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Colonist count",
-    "usage": "!colonists",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ColonistCount"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Provides some information about supported things. Supported categories are: 'weapons'",
-    "name": "Database",
-    "usage": "!rwdata <category/weaponname> [weaponname]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "RimDatabase"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
+    "description": "Бывает что команда не срабатывает и зависает. Система в чате сама оповестит что нужно ввести команду от глюков",
     "name": "Unstick me",
     "usage": "!глюк",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "UnstickMe"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Marriage",
-    "usage": "!свадьба",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Marriage"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Divorce",
-    "usage": "!divorce",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Divorce"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitCore"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
   }
 ]
