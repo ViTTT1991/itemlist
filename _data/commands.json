@@ -120,7 +120,7 @@
     },
     "description": "Воскрешает Вашего персонажа. Стоимость 2000.",
     "name": "Revive me",
-    "usage": "!воскресить",
+    "usage": "!воскреситьсебя",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "ReviveMeShortcut"
