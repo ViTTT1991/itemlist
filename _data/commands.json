@@ -174,7 +174,7 @@
     },
     "description": "Полностью излечивает Вашу пешку. Стоимость 1000",
     "name": "Full heal",
-    "usage": "!исцелить",
+    "usage": "!вылечитьполностью",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "FullHealShortcut"
