@@ -1,5 +1,5 @@
 {
-  "disease": {
+  "ПогодаТорнадо": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -7,87 +7,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "levelskill": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
-  "surgery": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "passionshuffle": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "replacetrait": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "removepassion": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "settraits": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "cleartraits": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "use": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "wear": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "tornado": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
-  "tornados": {
+  "ПогодаМногаТорнадо": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -103,7 +23,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "rain": {
+  "ПогодаДождь": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -111,7 +31,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "vomitrain": {
+  "ПогодаРвотныйДождь": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -119,7 +39,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "ПогодаТуманныйДождь": {
+  "ПогодаДождьСТуманом": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -143,7 +63,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "snowgentle": {
+  "ПогодаСнег": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -151,7 +71,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "snowhard": {
+  "ПогодаСнегопад": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -175,7 +95,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "ПогодаГрозовойШторм": {
+  "ПогодаГроза": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -183,7 +103,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "ПогодаПохолодание": {
+  "ПогодаЗаморозки": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -191,7 +111,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "solarflare": {
+  "ПогодаСолнечнаяВспышка": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -199,7 +119,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "shortcircuit": {
+  "КороткоеЗамыкание": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -207,7 +127,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "toxicfallout": {
+  "ПогодаТоксическиеОсадки": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -215,7 +135,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "volcanicwinter": {
+  "ПогодаВулканическаяЗима": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -247,7 +167,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "animaltame": {
+  "ЖивотныеПриручить": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -271,7 +191,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "tradercaravan": {
+  "ТорговецКараван": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -343,7 +263,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "ЖивотныеПотерянные": {
+  "ЖивотныеПрисоединяются": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -351,7 +271,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "wildman": {
+  "ЖивотныеДикийЧеловек": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -359,7 +279,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "rarethrumbos": {
+  "ЖивотныеДикиеТрумбо": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -367,7 +287,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "shipchunkdrop": {
+  "ПадениеОбломковКорабля": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -375,7 +295,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "travelergroup": {
+  "Путешественники": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -383,7 +303,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "visitorgroup": {
+  "Гости": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -415,7 +335,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "shippartpoison": {
+  "ПадениеЯдовитыйКорабль": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -423,7 +343,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "shippartpsychic": {
+  "ПадениеПсихКорабль": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -455,7 +375,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "РейдСаперы": {
+  "РейдМинеры": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -463,7 +383,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "siegeraid": {
+  "РейдОсада": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -511,6 +431,14 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
+  "БолезньОсобая": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit"
+  },
   "ВоскреситьРандома": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -519,7 +447,15 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "ДобавитьПешку": {
+  "Пешка": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit"
+  },
+  "levelskill": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -567,7 +503,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "visitcolony": {
+  "ПосетитьКолониюКакГость": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -583,7 +519,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "torytalkervote": {
+  "ГолосованиеЗаСобытие2": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -591,7 +527,7 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "Голосование1": {
+  "ГолосованиеЗаСобытие1": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -639,7 +575,31 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "СпаситеМеня": {
+  "surgery": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "passionshuffle": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "replacetrait": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "СпасиМеня": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -655,7 +615,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "ДобавитьСкилл": {
+  "добавитьскил": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -663,7 +623,47 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "Рюкзак": {
+  "removepassion": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "backpack": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "settraits": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "cleartraits": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "use": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "wear": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -695,7 +695,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "smite": {
+  "БолезньВозгорание": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -703,7 +703,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "Святыня": {
+  "Святилище": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,

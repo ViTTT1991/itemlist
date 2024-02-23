@@ -6,7 +6,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ПогодаМногоТорнадо",
+		"abr": "ПогодаМногаТорнадо",
 		"price": 2600,
 		"karmatype": "Bad"
 	},
@@ -26,7 +26,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "ПогодаТуманныйДождь",
+		"abr": "ПогодаДождьСТуманом",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
@@ -61,12 +61,12 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ПогодаГрозовойШторм",
+		"abr": "ПогодаГроза",
 		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ПогодаПохолодание",
+		"abr": "ПогодаЗаморозки",
 		"price": 800,
 		"karmatype": "Bad"
 	},
@@ -106,13 +106,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "ЖивотныеПрисоединяются",
-		"price": 50,
+		"abr": "ЖивотныеПриручить",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +132,7 @@
 	},
 	{
 		"abr": "ДобавитьЧеловекВЧерном",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -166,7 +161,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ЖивотныеПотерянные",
+		"abr": "ЖивотныеПрисоединяются",
 		"price": 400,
 		"karmatype": "Good"
 	},
@@ -197,7 +192,7 @@
 	},
 	{
 		"abr": "ДобавитьРандомныйСкилл",
-		"price": 700,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -211,12 +206,12 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoisonПадениеЯдовитогоКорабля",
+		"abr": "ПадениеЯдовитыйКорабль",
 		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "ПадениеПсихКорабля",
+		"abr": "ПадениеПсихКорабль",
 		"price": 2400,
 		"karmatype": "Bad"
 	},
@@ -236,7 +231,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "РейдСаперы",
+		"abr": "РейдМинеры",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -252,7 +247,7 @@
 	},
 	{
 		"abr": "БолезньЗаражение",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -271,7 +266,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "БолезньНеобычная",
+		"abr": "БолезньОсобая",
 		"price": 1000,
 		"karmatype": "Bad"
 	},
@@ -281,7 +276,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ДобавитьПешку",
+		"abr": "Пешка",
 		"price": 1,
 		"karmatype": "Good"
 	},
@@ -316,12 +311,12 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "Голосование2",
+		"abr": "ГолосованиеЗаСобытие2",
 		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "Голосование1",
+		"abr": "ГолосованиеЗаСобытие1",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
@@ -337,7 +332,7 @@
 	},
 	{
 		"abr": "ВылечитьВсех",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -351,7 +346,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "СпаситеМеня",
+		"abr": "СпасиМеня",
 		"price": 1200,
 		"karmatype": "Neutral"
 	},
@@ -361,40 +356,25 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "ДобавитьСкилл",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "Рюкзак",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "ДобавитьЧерту",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "ИзменитьДетство",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "ИзменитьЗрелость",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "БолезньВозгорание",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "Святыня",
-		"price": 100000,
+		"abr": "Святилище",
+		"price": 10000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 75
 }
