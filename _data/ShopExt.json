@@ -4,7 +4,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy наслаждается чувством свободы от одежды. он может носить одежду, но без неё будет чувствовать себя гораздо счастливее.",
       "stats": [],
@@ -26,7 +26,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy входит в раж, причиняя людям боль. ему нравится вид крови и смерти. он гораздо чаще других начинает бытовые драки.",
       "stats": [
@@ -54,7 +54,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy — исключительно PAWN_gender ? сговорчив и щедр : сговорчива и щедра. он редко кого-то оскорбляет и умеет добрым словом скрасить день окружающим. Более того, он никого не судит по внешности. Также, из-за своей покладистости Timmy будет больше подстраиваться под господствующее мнение.",
       "stats": [
@@ -88,7 +88,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не знает, что такое сопереживание. Страдания других совсем не волнуют его. ему безразлично, если кого-то пустят на мясо, оставят не похороненным, посадят в тюрьму или продадут в рабство, если его лично это не касается. он также не получает удовольствия от общения с другими.",
       "stats": [
@@ -150,7 +150,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Несмотря на то, что его учили, что есть человеческое мясо неправильно и ужасно, Timmy однажды его пробует... и ему нравится.",
       "stats": [
@@ -176,7 +176,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy всегда говорит в точности то, что думает, особенно, если это его раздражает. Обычно это влияет на окружающих не в лучшую сторону.",
       "stats": [
@@ -220,7 +220,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy страдает от собственного ума. он обучается всему гораздо быстрее остальных, но время от времени совершает разные чудачества.",
       "stats": [
@@ -268,7 +268,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит ближний бой, лицом к лицу. его точность в рукопашной значительно выше, чем у других. он терпеть не может пользоваться оружием дальнего боя.",
       "stats": [
@@ -314,7 +314,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Для Timmy боль — это что-то возбуждающее. он не знает почему, просто его голова работает по-другому.",
       "stats": [
@@ -346,7 +346,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит бодрствовать ночью, а спать днём.\n\nБудучи на ногах ночью (с 23 до 6 ч), Timmy получает подъём настроения, а если он не спит днём (с 11 до 18 ч), его настроение портится.\n\nНахождение в темноте не меняет настроения.",
       "stats": [
@@ -372,7 +372,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy требует для себя поистине впечатляющую спальню. У него портится настроение, если он не получает то, что хочет.",
       "stats": [],
@@ -400,7 +400,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "К тем, чья комната лучше, чем его, Timmy испытывает сильную зависть, отражающуюся на его настроении.",
       "stats": [
@@ -432,7 +432,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? отказался : отказалась от комфорта и наслаждений, выбрав жить в скромности и простоте. У него портится настроение, если его спальня слишком роскошна. Timmy также не любит изысканные блюда, предпочитая им простую, или даже сырую пищу. Кроме того, он никогда не судит людей по внешнему виду.",
       "stats": [
@@ -474,7 +474,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy испытывает влечение к людям своего пола.",
       "stats": [],
@@ -496,7 +496,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy испытывает влечение к людям обоих полов.",
       "stats": [],
@@ -518,7 +518,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не испытывает влечение к кому-либо.",
       "stats": [],
@@ -540,7 +540,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет резкий гнусавый голос и общается, рявкая какие-то обрывистые фразы. Неудивительно, что он не нравится другим.",
       "stats": [],
@@ -578,7 +578,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy тяжело дышит, при этом постоянно потея. Многие люди считают это жутковатым.",
       "stats": [],
@@ -616,7 +616,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обожает огонь, никогда не тушит пожары и время от времени может PAWN_gender ? сам : сама поджигать всё, до чего дотянется. Когда рядом огонь — он радуется, а с зажигательным оружием в руках — радуется ещё больше.",
       "stats": [
@@ -648,7 +648,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет слабый характер и низкий болевой порог. Даже лёгкая боль способна вывести его из строя.",
       "stats": [
@@ -696,7 +696,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает выдающимися способностями к управлению своим телом. От опасностей он уворачивается с необычайным изяществом.",
       "stats": [
@@ -740,7 +740,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет талант к обучению. он схватывает новую информацию буквально на лету.",
       "stats": [
@@ -774,7 +774,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy медленно соображает, новые вещи даются ему гораздо тяжелее остальных.",
       "stats": [
@@ -812,7 +812,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy предпочитает находиться под землёй и не нуждается в том, чтобы выходить на улицу и видеть солнечный свет. он никогда не чувствует себя взаперти и не страдает от клаустрофобии и темноты, вне зависимости от того, как долго он находится в помещении.",
       "stats": [
@@ -838,7 +838,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy чувствует себя PAWN_gender ? ограниченным : ограниченной в своём немощном человеческом теле. он мечтает улучшить его возможности при помощи искусственных частей и ксеногенетики.",
       "stats": [],
@@ -864,7 +864,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy верит, что человеческое тело ограничено не просто так. Искусственные части и ксеногены ему кажутся неэтичными, а сама мысль об их вживлении — омерзительной.",
       "stats": [
@@ -894,7 +894,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не любит мужчин и не доверяет им.",
       "stats": [],
@@ -916,7 +916,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не любит женщин и не доверяет им.",
       "stats": [],
@@ -938,7 +938,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy хорошо запоминает детали, приобретая навыки немного быстрее обычного.",
       "stats": [
@@ -964,7 +964,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает толстой кожей, крепкими мышцами и прочными костями. По сравнению с обычным человеком он получает гораздо меньше урона от тех же атак. его очень трудно убить.",
       "stats": [
@@ -996,7 +996,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy постоянно чувствует отчуждённость и человеческое непонимание в любом начинании, и это его расстраивает. Однако в среднем после каждого второго нервного срыва к нему приходит творческое вдохновение.",
       "stats": [
@@ -1022,7 +1022,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обожает вкусно поесть, еда стала чуть ли не смыслом его жизни. Мало того, что он имеет непомерный аппетит, он ещё любит предаваться безудержному чревоугодию вне зависимости от чувства голода.",
       "stats": [
@@ -1054,7 +1054,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не нуждается в большом количестве времени для сна. Независимо от того, спит он на кровати или на земле, Timmy набирается сил в полтора раза быстрее, чем остальные.",
       "stats": [
@@ -1080,7 +1080,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy всегда плетётся позади группы, когда и куда бы она не шла.",
       "stats": [
@@ -1114,7 +1114,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy любит ходить пешком. он ходит быстрее, чем большинство людей.",
       "stats": [
@@ -1146,7 +1146,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy всегда спешит. Да так сильно, что остальные угнаться не могут.",
       "stats": [
@@ -1178,7 +1178,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy сильно тяготеет к химическим источникам удовольствия. Употребление лёгких наркотиков поднимает ему настроение, а воздержание — наоборот, повергает в нарастающее уныние и приводит к наркотическим срывам. он не обращает внимания на запреты лёгких наркотиков и потребляет их больше других.",
       "stats": [],
@@ -1200,7 +1200,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy любит выпить и имеет слабость к другим химическим источникам удовольствия. Употребление лёгких наркотиков поднимает ему настроение, а воздержание — наоборот, повергает в нарастающее уныние и приводит к наркотическим срывам. он не обращает внимания на запреты лёгких наркотиков и потребляет их больше других.",
       "stats": [],
@@ -1222,7 +1222,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy не приемлет идею получения удовольствия от «химии» и держится подальше от алкоголя и наркотиков.",
       "stats": [
@@ -1250,7 +1250,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy всегда в приподнятом настроении, что бы ни происходило вокруг.",
       "stats": [],
@@ -1276,7 +1276,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy оптимист от природы. ему сложно испортить настроение.",
       "stats": [],
@@ -1302,7 +1302,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy смотрит на многие жизненные ситуации только с плохой стороны.",
       "stats": [],
@@ -1328,7 +1328,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy всегда в плохом настроении. И оно редко улучшается, даже когда всё хорошо.",
       "stats": [],
@@ -1354,7 +1354,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy обладает волей, крепкой, как железный щит. он не теряет самообладания даже в тех ситуациях, когда другие сдаются и опускают руки.",
       "stats": [
@@ -1390,7 +1390,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy обладает психической устойчивостью к стрессам, которые большинство не выдерживает.",
       "stats": [
@@ -1426,7 +1426,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy может сорваться при сильном эмоциональном напряжении.",
       "stats": [
@@ -1462,7 +1462,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy всегда на взводе. Малейшее эмоциональное напряжение может закончиться нервным срывом.",
       "stats": [
@@ -1498,7 +1498,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy любит всё делать правильно, отчего работает больше и усерднее остальных. Такое напряжение иногда приводит к нервными срывам.",
       "stats": [
@@ -1526,7 +1526,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy постоянно переживает обо всём, чем занимается. он заставляет себя работать с невероятным усердием, что плохо сказывается на его нервах.",
       "stats": [
@@ -1554,7 +1554,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy легко концентрируется на работе и выполняет задачи гораздо быстрее обычных людей.",
       "stats": [
@@ -1588,7 +1588,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Обладая природным трудолюбием, Timmy выполняет работу быстрее остальных.",
       "stats": [
@@ -1622,7 +1622,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy иногда ленится.",
       "stats": [
@@ -1656,7 +1656,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy любит бездельничать и ненавидит работать. он двигается медленно и редко концентрируется на задаче.",
       "stats": [
@@ -1690,7 +1690,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Разум Timmy отзывчив, словно тонко настроенный музыкальный инструмент. он чрезвычайно PAWN_gender ? чувствителен : чувствительна к психическим воздействиям.",
       "stats": [
@@ -1726,7 +1726,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Разум Timmy чувствителен к психическим воздействиям.",
       "stats": [
@@ -1762,7 +1762,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy — психически устойчивая личность, которую мало что способно потревожить.",
       "stats": [
@@ -1798,7 +1798,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Разум Timmy работает на волне, отличной от всех остальных. он не подвергается влиянию психических воздействий.",
       "stats": [
@@ -1834,7 +1834,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy обладает исключительной красотой. его лицо имеет несколько экзотичные, но в то же время крайне привлекательные черты, а взгляд буквально очаровывает. Timmy располагает к себе людей ещё до того, как что-нибудь произнесёт.",
       "stats": [
@@ -1860,7 +1860,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "У Timmy миловидное личико, вызывающее у людей симпатию.",
       "stats": [
@@ -1886,7 +1886,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy имеет непривлекательную, отталкивающую внешность.",
       "stats": [
@@ -1912,7 +1912,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy обладает поистине безобразной внешностью. его лицо — что-то среднее между рисунком бездарного ребёнка, заспиртованным в банке уродцем и произведением современного искусства. Людям приходится прикладывать усилие, чтобы просто смотреть ему в лицо при разговоре.",
       "stats": [
@@ -1938,7 +1938,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy от природы обладает стойкой иммунной системой. Скорость, с которой у него вырабатывается иммунитет к различным возбудителям, гораздо выше, чем у остальных. он справится с болезнью, которая обычного человека может просто убить.",
       "stats": [
@@ -1964,7 +1964,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy имеет слабую иммунную систему. он болеет гораздо чаще остальных. Зачастую у него возникают недуги, от которых не страдает больше никто в поселении.",
       "stats": [
@@ -1990,7 +1990,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "У Timmy хрупкие кости и очень нежная кожа. он получает больше урона, чем остальные.",
       "stats": [
@@ -2016,7 +2016,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Чем меньше людей в его фракции, тем довольнее Timmy. А лучше, чтобы вообще никого не было.",
       "stats": [],
@@ -2038,7 +2038,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "NAME всегда бежит от опасности. HECAP, как правило, первый(ая), кто убегает из битвы.",
       "stats": [
@@ -2066,7 +2066,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Немногое пугают NAME. В битве HE стоит с невозмутимым видом, где другие паникуют и убегают.",
       "stats": [
@@ -2094,7 +2094,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "NAME смеется перед лицом опасности. Некоторые приписывают это храбрости, другие - к глупости. В любом случае, NAME, похоже, не испытывает чувства самосохранения и никогда не убежит от угрожающей ситуации.",
       "stats": [
@@ -2122,7 +2122,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy ненавидит и не доверяет представителям других видов гуманоидов. В них немного больше, чем у животных.",
       "stats": [],
@@ -2144,7 +2144,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy симпатизирует представителям других видов гуманоидных существ. Не против узнать их больше и не против хороших отношений.",
       "stats": [],
@@ -2166,7 +2166,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy предпочитает быть там, где течёт кровь! Свободно себя чувствует в ближнем бою.",
       "stats": [
@@ -2210,7 +2210,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy очень туго соображает в науке, но обладает высокой исполнительностью.",
       "stats": [
@@ -2254,7 +2254,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет невероятный ум, но он также страдает от неуравновешенности.",
       "stats": [
@@ -2294,7 +2294,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy весьма туповат, из-за чего способность к обучению снижена.",
       "stats": [
@@ -2362,7 +2362,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy в детстве любил много играть со строительными игрушками и до сих пор испытывает трепет при строительных работах.",
       "stats": [
@@ -2406,7 +2406,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает крепким телосложением, что дает ему преимущество в ближнем бою.",
       "stats": [
@@ -2448,7 +2448,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает очень слабым телосложением, повышающее его уязвимость в ближнем бою.",
       "stats": [
@@ -2490,7 +2490,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Найдя веру и умиротворение в своей религии, Timmy приобретает устойчивость к невзгодам, ждущим впереди.",
       "stats": [
@@ -2526,7 +2526,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy фанатично верит в свою религию и делает всё, чтобы заставить других принять свою истину.",
       "stats": [
@@ -2570,7 +2570,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy слышит внутренний голос и пытается найти его источник. Периодически он сводит его с ума!",
       "stats": [
@@ -2616,7 +2616,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy в целом считает себя счастливым человеком, но смерть близких беспокоит его больше, чем других.",
       "stats": [
@@ -2656,7 +2656,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy эмоционально устойчивый человек. В большинстве своем, не испытывающий или не проявляющий жалости и сострадания.",
       "stats": [
@@ -2694,7 +2694,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Закалка Timmy подготовила его к суровой реальности и ужасным вещам вокруг, что иногда приходиться делать очень плохие вещи, чтобы выжить. Это сделало его более психически устойчивым.",
       "stats": [
@@ -2746,7 +2746,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy никогда не сомневается в своей правоте и неправоте всех остальных.",
       "stats": [
@@ -2782,7 +2782,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет необоснованную уверенность в отсутствии у себя минусов и отрицательных свойств характера.",
       "stats": [
@@ -2818,7 +2818,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy выстраивает свою систему поступков, дел и взглядов на жизнь в аспекте получения практически полезных результатов. Всё, что ВНЕ этих результатов, прагматик элиминирует и избегает.",
       "stats": [
@@ -2852,7 +2852,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Шустрота и проворность Timmy - предмет зависти для других.",
       "stats": [
@@ -2894,7 +2894,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy неестественно медленно делает абсолютно всё.",
       "stats": [
@@ -2934,7 +2934,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy любит много говорить и ненавидит сражаться. К счастью для него, может найти выход почти из любой ситуации.",
       "stats": [
@@ -3004,7 +3004,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy по своей натуре прирожденный лидер. он легко получает поддержку со стороны других.",
       "stats": [
@@ -3074,7 +3074,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy отличается исключительной застенчивостью.",
       "stats": [
@@ -3114,7 +3114,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy отличается исключительной дружелюбностью.",
       "stats": [
@@ -3150,7 +3150,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - прирождённый лидер.",
       "stats": [
@@ -3230,7 +3230,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - злодей этой драмы.",
       "stats": [
@@ -3272,7 +3272,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет страсть к животным. он проводит так много времени с домашними животными, что не знает как без них быть.",
       "stats": [
@@ -3320,7 +3320,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не любит животных, потому что у него на них аллергия, это вызывает у него бесконечное чихание.",
       "stats": [
@@ -3358,7 +3358,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет неприязнь к свету, предпочитает темноту.",
       "stats": [],
@@ -3380,7 +3380,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy крайне боится огоня. он не сможет совладать с собой, чтобы тушить пожар.",
       "stats": [],
@@ -3406,7 +3406,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает тонкой кожей, слабыми мышцами и хрупкими костями. По сравнению с обычным человеком он получает больше урона от тех же атак. его проще убить.",
       "stats": [
@@ -3436,7 +3436,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит красивые вещи и действительно заботится о том, как выглядит его окружение.",
       "stats": [
@@ -3468,7 +3468,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy склонен к экстремальным колебаниям настроения. Когда он счастлив(а), он может быть очень счастлив, но в тоже время когда он грустит, это может стать причиной депрессии.",
       "stats": [],
@@ -3502,7 +3502,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy страшный садовник. Единственное, что он способен вырастить это сорняки.",
       "stats": [
@@ -3540,7 +3540,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy имеет страсть к садоводству. он получает бонус к настроению во время посадки растений.",
       "stats": [
@@ -3578,7 +3578,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит готовить мясо для приготовления пищи. его скорость разделываения значительно возрастает, но только если он имеет дело с трупами животных. он ужасен при разборке механоидов.",
       "stats": [
@@ -3624,7 +3624,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает исключительными способностями в области органической химии и является довольно эффективным работником при производстве алкогольных напитков или наркотических веществ.",
       "stats": [
@@ -3666,7 +3666,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy боиться закрытых пространств. он в ужасе от ограниченного пространства, и, таким образом, является не очень компетентным шахтером.",
       "stats": [
@@ -3704,7 +3704,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy предпочитает холодный климат. он будет жаловаться меньше, чем другие, когда всем будет холодно, но чувствовать дискомфорт когда слишком жарко.",
       "stats": [
@@ -3736,7 +3736,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy очень крепко спит.",
       "stats": [],
@@ -3758,7 +3758,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет страсть к приготовлению пищи. Приготовленная его пища получается вкуснее, но в тоже время на ее приготовление уходит больше времени.",
       "stats": [
@@ -3796,7 +3796,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит жаркий климат. он жалуется меньше, чем другие, когда слишком жарко, но будет чувствовать дискомфорт если слишком холодно.",
       "stats": [
@@ -3828,7 +3828,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "его действия кажутся несогласованными, что отрицательно сказывается на его работе.",
       "stats": [
@@ -3900,7 +3900,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy имеет необычайную координацию, что положительно сказывается на его работе.",
       "stats": [
@@ -3970,7 +3970,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy стойкий оловянный солдатик! Обладает исключительно высокой устойчивостью к боли.",
       "stats": [
@@ -4006,7 +4006,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy тяжело переносит болевые воздействия",
       "stats": [
@@ -4042,7 +4042,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Странные новые идеи появляются в голове у Timmy. Исследование новых технологий легко приходит к ему, но он всегда кажется отвлеченным.",
       "stats": [
@@ -4088,7 +4088,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy с трудом видит вещи, если он относительно близко находиться к ним.",
       "stats": [
@@ -4126,7 +4126,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "У Timmy острый глаз, он может быстро определять цели.",
       "stats": [
@@ -4166,7 +4166,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит чистоту. Подходит к работе аккуратнее и меньше пачкается, это отрицательно сказывается на его скорости работы.",
       "stats": [
@@ -4208,7 +4208,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy разборчив в пище. У его уходит больше времени чтобы ее съесть.",
       "stats": [
@@ -4234,7 +4234,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy поглощает пищу быстрее обычного.",
       "stats": [
@@ -4260,7 +4260,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy очень боиться темноты.",
       "stats": [],
@@ -4282,7 +4282,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy совсем не боится темноты.",
       "stats": [
@@ -4308,7 +4308,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет убеждение, что идеал может и должен быть достигнут и неважно сколько уйдет на это времени. он с меньшей вероятностью потерпит неудачу при выполнении чего-то, но он работает медленно.",
       "stats": [
@@ -4396,7 +4396,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Даже имея хорошие намерения, некоторые люди просто не предназначены для медицины. Timmy один(на) из этих людей.",
       "stats": [
@@ -4430,7 +4430,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy имеет навыки в медицине. Пациенты на его попечении, скорее всего, будут жить хорошо.",
       "stats": [
@@ -4466,7 +4466,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy имеет исключительные навыки в области медицины. его умелые руки и вдохновляющая манера ухода за больными не оставит никого равнодушным. ",
       "stats": [
@@ -4506,7 +4506,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит работать с горными породами. его скорость добычи увеличивается, но его отстутсвие интереса к другим навыкам замедляет ему выполнение других работ. И он ненавидит работать с растениями.",
       "stats": [
@@ -4560,7 +4560,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "У Timmy не очень хорошая реакция, что подводит его в ближнем бою.",
       "stats": [
@@ -4596,7 +4596,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy имеет рефлексы, как у кошек, в чем превосходит других людей.",
       "stats": [
@@ -4632,7 +4632,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy совершенно не умеет торговаться. он заплатит больше и все еще будет думать, что заключил хорошую сделку. ",
       "stats": [
@@ -4670,7 +4670,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy любит торговаться, но это неплохо. он имеет свойство совершать более выгодные сделки, чем другие.",
       "stats": [
@@ -4708,7 +4708,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy всегда совершает выгодные сделки.",
       "stats": [
@@ -4746,7 +4746,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy чаще других попадает в цель, но ему нужно время, чтобы как следует прицелиться.",
       "stats": [
@@ -4784,7 +4784,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Пиу-пиу-пиу! Timmy обожает жать на курок. Точность при этом страдает, но его это не заботит, потому что пушки — это здорово!",
       "stats": [
@@ -4820,7 +4820,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy умеет обращаться с огнестрельным оружием, что позволяет ему стрелять как быстро, так и точно.",
       "stats": [
@@ -4858,7 +4858,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Тонкость? Дипломатия? Timmy едва ли может понять смысл этих слов.",
       "stats": [
@@ -4900,7 +4900,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy искусно владеет всеми тонкостями дипломатии.",
       "stats": [
@@ -4942,7 +4942,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy имеет особенность владения языком, что позволяет он остудить любую напряженную ситуацию. он может говорить целыми днями и люди все равно будут его слушать.",
       "stats": [
@@ -4984,7 +4984,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Здоровье Timmy обсобенно уязвимо к болезням, патогенам и токсичным явлениям.",
       "stats": [
@@ -5020,7 +5020,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Здоровье Timmy способно выдержать гораздо больше негативных воздействий, чем любого другого человека.",
       "stats": [
@@ -5056,7 +5056,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy одержим микробами и будет мыться намного чаще обычного.",
       "stats": [],
@@ -5078,7 +5078,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy очень гигиеничен, из-за чего моется чаще обычного.",
       "stats": [],
@@ -5100,7 +5100,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -1,
       "description": "Timmy негигиеничен, из-за чего моется реже обычного.",
       "stats": [],
@@ -5122,7 +5122,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy обладает очень низкими стандартами чистоты и будет мыться только в исключительных случаях.",
       "stats": [],
@@ -5144,7 +5144,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает сильными духовными убеждениями, что позволяет ему идти вперед даже в самые трудные времена.",
       "stats": [
@@ -5184,7 +5184,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy - андроид. Являясь андроидом, он чуть быстрее людей и на него не воздействуют психические явления.",
       "stats": [],
@@ -5206,7 +5206,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Это робот. У него лучше реакция, выносливость и он не подвержен психологическим растройствам.",
       "stats": [],
@@ -5228,7 +5228,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет тенденцию время от времени погружаться в своим мысли, даже в процессе работы.",
       "stats": [
@@ -5258,7 +5258,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет чудоковатые привычки - небольшой компромисс за PAWN_gender ? его : ее природную склонность к науке.",
       "stats": [
@@ -5288,7 +5288,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy стремится к совершенству в своей работе. Естественно, что PAWN_gender ? он : она будет производить продукцию более высокого качества, хоть и дольше других. Однако изготовление некачественного продукта PAWN_gender ? его : ее расстроит. Кроме того, Timmy может очень редко бросать проект в середине работы, если PAWN_gender ? ему : ей не нравится к какому результату тот движется.",
       "stats": [
@@ -5314,7 +5314,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Хотя теоретически Timmy PAWN_gender ? способен : способна к военным действиям, PAWN_gender ? его: ее инстинкты борьбы в значительной мере уступают инстинктам бегства, и он будет пытаться спрятаться или убежать в первую очередь.",
       "stats": [],
@@ -5344,7 +5344,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает более высокой умственной и физической стойкостью по сравнению с большинством других и может легче адаптироваться к суровым условиям окраинных миров.",
       "stats": [
@@ -5388,7 +5388,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Синяки и царапины появляются у Timmy слишком часто, в основном из-за PAWN_gender ? его : ее плохой координации, которая приводит к спотыканиям и падениям.",
       "stats": [],
@@ -5414,7 +5414,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит яркость и тепло сухого летнего дня. PAWN_gender ? Он : Она не против потеть или спать в жару.",
       "stats": [
@@ -5440,7 +5440,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит пасмурную и холодную зимнюю ночь. PAWN_gender ? Он : Она не против холода и сна на морозе.",
       "stats": [
@@ -5466,7 +5466,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Рядом может разорваться бомба, но это не приведет к тому, что Timmy проснется. Также PAWN_gender ? он : она не прервет сон, если колонию атакуют.",
       "stats": [],
@@ -5488,7 +5488,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy строго относится к гигиене и порядку. PAWN_gender ? Он : Она не будет ходить по грязи и выбрасывать мусор где попало, а во время уборки будет чувствовать себя PAWN_gender ? счастливым : счастливой.",
       "stats": [],
@@ -5514,7 +5514,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? неряшлив : неряшлива и оставляет везде мусор и грязь. Но по крайней мере PAWN_gender ? его : ее не беспокоит беспорядок.",
       "stats": [],
@@ -5540,7 +5540,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет проблемы с перерывами и отдыхом во время работы. он продолжит работать, даже если будет нужно принести в жертву сон и здоровье.",
       "stats": [],
@@ -5566,7 +5566,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy никогда в жизни не PAWN_gender ? испытывал : испытывала тошноту. Рвота и пищевое отравление чужды ему.",
       "stats": [],
@@ -5592,7 +5592,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не выносит плохого обращения с животными. он будет чувствовать себя счастливее, если в него ткнется носом какое-нибудь животное или будучи хозяином одного из них. Но PAWN_gender ? его : ее морально раздавит сцена смерти прирученного животного или невозможность стать его хозяином. Также Timmy отказывается от работы мясника.",
       "stats": [],
@@ -5618,7 +5618,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy глубоко верит в превосходство человеческого вида. Убийство животных доставит PAWN_gender ? ему : ей удовольствие, а если в колонии умрет животное, то Timmy также испытает радость.",
       "stats": [],
@@ -5650,7 +5650,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? сломал : сломала несколько стульев в свое время и, скорее всего, сломает еще больше, потому что обладает коренастой фигурой. А возможно просто потому, что не умеет управляться со своим весом.",
       "stats": [],
@@ -5672,7 +5672,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy играет только по своим правилам, закатывает глаза и спустя рукава делает любую задачу, которую PAWN_gender ? его : ее заставили делать.",
       "stats": [
@@ -5702,7 +5702,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy требует четких инструкций о том, как и когда делать определенные действия. Будет работать с нормальной скоростью только тогда, когда PAWN_gender ? его : ее заставляют что-либо делать.",
       "stats": [
@@ -5732,7 +5732,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy подпитывается злобой. Ненавидит, когда PAWN_gender ? его : ее соперники делят с PAWN_gender ? ним : ней одну и ту же землю и будет в восторге от новостей об их смерти.",
       "stats": [
@@ -5762,7 +5762,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Будь то травма в прошлом или просто страх перемен, Timmy отвергает технический прогресс. PAWN_gender ? Он : Она может беспорядочно атаковать механические устройства и отказываться изучать что-либо о них. Еще такие люди обожают убивать механоидов.",
       "stats": [
@@ -5792,7 +5792,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит вспоминать хорошие времена и живет ради вечеринок. Любая посещенная PAWN_gender ? им : ей вечеринка запомнится намного дольше, чем большинству других людей.",
       "stats": [],
@@ -5818,7 +5818,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет низкие умстенные способности. Хотя PAWN_gender ? он : она медленнее учится и с трудом поддерживает беседу, такие люди, как правило, гораздо счастливее от природы.",
       "stats": [
@@ -5862,7 +5862,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? выучил : выучила определенный прием рукопашного боя, который позволяет PAWN_gender ? ему : ей обезоруживать противников. Timmy использует этот прием часто.",
       "stats": [],
@@ -5884,7 +5884,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy считает, что принадлежит к высшему обществу и не любит ничего, кроме критики предметов искусства и общения со знатными особами.",
       "stats": [],
@@ -5910,7 +5910,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy испытывает тошноту всякий раз, когда видит вокруг слишком много крови или гниющие трупы. Рвота - это часть ему жизни.",
       "stats": [],
@@ -5940,7 +5940,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy часто тревожится, особенно из-за социальных ситуаций. PAWN_gender ? Он : Она не будет посещать какие-либо собрания и иногда захочет побыть в одиночестве в своей комнате, чтобы отдышаться.",
       "stats": [
@@ -5972,7 +5972,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Никакой любви не будет достаточно для Timmy. он будет часто прыгать от партнера к партнеру и кувыркаться с ними в простынях.",
       "stats": [
@@ -6004,7 +6004,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy отказывается вступать в интимный контакт с кем-либо, кроме супруга, и никогда не сможет поднять вопрос о разводе. Также PAWN_gender ? он : она стесняется представать в обнаженном виде гораздо больше, чем другие люди.",
       "stats": [
@@ -6036,7 +6036,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Кресло или плоский экран - все что нужно Timmy для счастья. Таких людей развлекают даже повторы или старые рекламные ролики, им никогда не надоест телевидение. Они будут много смотреть телевизор и чувствовать себя довольными после просмотра.",
       "stats": [],
@@ -6058,7 +6058,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy без ума от всего, что связано с кошками. PAWN_gender ? Он : Она естественно будет стремиться к сближению с ними и не будет в восторге от собак.",
       "stats": [],
@@ -6084,7 +6084,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy без ума от всего, что связано с собаками. PAWN_gender ? Он : Она естественно будет стремиться к сближению с ними и не будет в восторге от кошек.",
       "stats": [],
@@ -6110,7 +6110,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает пытливым умом. PAWN_gender ? Он : Она исследует намного быстрее и запоминает лучше. Однако без лаборатории, посвященной PAWN_gender ? его : ее работе, Timmy будет PAWN_gender ? расстроен : расстроена и будет чаще испытывать стресс.",
       "stats": [
@@ -6142,7 +6142,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy считает, что животные являются неотъемлемой частью общества и жизни человека, от пушистых друзей до источников пищи. PAWN_gender ? Ему : Ей нравится иметь как можно больше животных вокруг себя и PAWN_gender ? он : она особенно PAWN_gender ? хорош : хороша в их приручении.",
       "stats": [
@@ -6174,7 +6174,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Море зовет Timmy. он чувствует себя счастливее, просто находясь рядом с океаном или глубокой рекой.",
       "stats": [],
@@ -6196,7 +6196,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Горы зовут Timmy. он чувствует себя счастливее, просто находясь рядом с высокой горой.",
       "stats": [],
@@ -6218,7 +6218,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет зловещий секрет. он рассматривает извлечение органов как извращенный эксперимент и осуществит его не моргнув и глазом. В то время как извлечение органов делает PAWN_gender ? его : ее PAWN_gender ? счастливым : счастливой, отсутствие такой возможности ведет к расстройству.",
       "stats": [
@@ -6244,7 +6244,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy предположительно специалист по рукопашному бою, но только в нетрезвом виде. PAWN_gender ? Он : Она утверждает, что становится тем более PAWN_gender ? умелым : умелой, чем больше PAWN_gender ? пьяным : пьяной.",
       "stats": [
@@ -6270,7 +6270,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy испытывает влечение к краже и присваиванию вещей, которые PAWN_gender ? ему : ей не принадлежат, даже если это рассердит жертву кражи.",
       "stats": [
@@ -6296,7 +6296,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Дымолист это просто часть жизни для Timmy. он обожает косяки дымолиста и лучше умрет, чем бросит его.",
       "stats": [],
@@ -6326,7 +6326,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Алкоголь это просто часть жизни для Timmy. он обожает выпивку и лучше умрет, чем бросит ее.",
       "stats": [],
@@ -6356,7 +6356,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит путешествовать и быстро передвигается по местности, но PAWN_gender ? способен : способна расстроиться, если останется без путешествий на некоторое время. PAWN_gender ? Он : Она также довольно хорошо умеет добывать пищу во время путешествия.",
       "stats": [
@@ -6386,7 +6386,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy никогда не спит и не бодрствует. он PAWN_gender ? похож : похожа на зомби, ходит и работает очень медленно, спит только раз в три дня или около того.",
       "stats": [
@@ -6420,7 +6420,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? устал : устала от мира и PAWN_gender ? его : ее постоянно нужно отвлекать, чтобы остановить темные мысли. его - мрачная личность, разочарованная во всем и поэтому с PAWN_gender ? ним : ней крайне трудно подружиться.",
       "stats": [],
@@ -6442,7 +6442,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy PAWN_gender ? закалился : закалилась от какой-то старой эмоциональной травмы. PAWN_gender ? Он : Она абсолютно не испытывает чувств от потерянных животных, колонистов, семьи, заключенных или просто вида трупов.",
       "stats": [
@@ -6472,7 +6472,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Только лучшие кулинарные творения достойны коснуться губ Timmy. PAWN_gender ? Он : Она нейтрально относится к повседневной трапезе, но будет восхищаться и смаковать вкусные блюда до последнего куска.",
       "stats": [
@@ -6502,7 +6502,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Будь то изучение древних рукописей или годы схоластических занятий, Timmy на удивление отлично разбирается во множестве тем, особенно в науке и медицинской практике.",
       "stats": [
@@ -6536,7 +6536,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy твердо верит, что важнее всего инфраструктура. Является прирожденным каменщиком.",
       "stats": [
@@ -6568,7 +6568,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "В глазах Timmy еда это искусство. PAWN_gender ? Его : Ее кулинарные творения невероятно красивы, восхитительны на вкус и почти всегда безопасны для употребления.",
       "stats": [
@@ -6598,7 +6598,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Флора и фауна жизненно важны для Timmy. PAWN_gender ? Он : Она использует максимум частей от добытых растений и животных и высоко ценит благословение матери Гайи.",
       "stats": [
@@ -6630,7 +6630,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy умеет разглядеть во всем выгоду и говорить красивые речи. PAWN_gender ? Он : Она считает, что он продукция - лучшая и, вероятно, убедит вас в этом, только дайте возможность.",
       "stats": [
@@ -6660,7 +6660,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Кровь Timmy имеет свойство гиперкоагуляции и будет вытекать гораздо медленнее, чем у других людей.",
       "stats": [],
@@ -6686,7 +6686,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy страдает гемофилией и имеет тенденцию к обильному кровотечению больше, чем другие люди.",
       "stats": [],
@@ -6712,7 +6712,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy испытывает проблемы с самовыражением, пока не становится PAWN_gender ? невыносимым : невыносимой, после чего PAWN_gender ? его : ее ждет окончательный крах.",
       "stats": [],
@@ -6733,8 +6733,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy аномально восприимчив к приливам и отливам маны, он будет получать ману на 40% быстрее, чем обычно, но его максимальная емкость маны уменьшается на 20.",
       "stats": [],
@@ -6761,8 +6761,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает повышенной устойчивостью к приливам и отливам маны, что позволяет ему удерживать дополнительные 40 маны, но уменьшает регенерацию маны его на 20%.",
       "stats": [],
@@ -6789,8 +6789,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy преуспевает в боевых искусствах и способен выполнять боевые маневры на 40% чаще, однако талант его воспитал высокомерное отношение, которое уменьшает прирост опыта его на 25% и вызывает неприязнь у других бойцов ему.",
       "stats": [],
@@ -6817,8 +6817,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy является потомком народа фейри и имеет естественную связь с тайной. его сопротивление тайнам уменьшено на 40%, но регенерация маны и максимальная мана увеличены на 20%. Затраты на заклинания снижаются на 10%.",
       "stats": [],
@@ -6843,8 +6843,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - потомок гигантов, наделенный огромной силой и выносливостью, хотя и медленно восстанавливающийся. его максимальная выносливость увеличивается на 80%, но регенерация выносливости уменьшается на 40%. Любая атака, совершенная с использованием оружия ближнего боя или без оружия, наносит дополнительный урон в размере 25%.",
       "stats": [],
@@ -6869,8 +6869,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy благословлен магией, способен использовать ее силу, не испытывая всех побочных эффектов. Экстрасенсорная чувствительность увеличивается на 50%, и любая используемая магическая способность вызывает только половину обычной магической слабости.",
       "stats": [
@@ -6899,8 +6899,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy проклят магией - мучается от постоянного, жгучего прилива силы через существо его и может получить облегчение, только расходуя тайную энергию. Timmy будет медленно накапливать тайную слабость до тех пор, пока он не станет кататоническим, и может стать кататоническим в любой момент, находясь на этом пороге. Использование магических способностей, которые обычно приводят к тайной слабости, вместо этого пропорционально уменьшит тайную слабость, а также последствия проклятия.",
       "stats": [],
@@ -6925,8 +6925,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy признал, что смерть-это еще одна часть жизни, и не расстраивается, когда узнает о мертвом союзнике или видит одного из нежити.",
       "stats": [],
@@ -6947,8 +6947,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy был реанимирован как нежить.",
       "stats": [
@@ -7085,8 +7085,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обладает магическим даром. он может использовать этот дар, чтобы стать магом, изучая таинственные секреты в тайных письменах.",
       "stats": [
@@ -7221,8 +7221,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - эмпат, способный чувствовать и манипулировать эмоциями окружающих ему. Способности его связаны с магией, но повлияли на ему на более врожденном уровне. Однако, пройдя обучение, Timmy все еще может стать искусным пользователем магии. Хорошо это или плохо, но эмпаты обладают очень сильным присутствием и могут легко распознавать присутствие других; эффективность их способностей тесно связана с их способностью преодолевать чужую защиту.",
       "stats": [
@@ -7881,8 +7881,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - странник; изгой, класс магов-полукровок, часто называемый живым магом. его беззаботная личность удержала его от развития классовых способностей. Вместо этого он научился совершенствовать огромное количество полезных способностей, которые позволяют ему адаптироваться к любой ситуации.\n    \nСтранники предпочитают открытую дорогу и получают заряд бодрости от пребывания в караване. Караваны со странником будут игнорировать штрафы за передвижение по любой местности. Однако их жажда странствий приведет к тому, что они будут страдать от нахождения в колонии.",
       "stats": [
@@ -8155,8 +8155,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy настроен на стихию огня.",
       "stats": [
@@ -8431,8 +8431,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy находится в гармонии с элементами воды.",
       "stats": [
@@ -8705,8 +8705,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy настроен на элементы молний.",
       "stats": [
@@ -8975,8 +8975,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy настроен на тайные силы, взаимодействуя непосредственно с необработанной тайной силой, чтобы перемещать материю и энергию по своему желанию.",
       "stats": [
@@ -9253,8 +9253,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy находится в гармонии с силами природы.",
       "stats": [
@@ -9529,8 +9529,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy был наделен божественной мощью и поклялся поддерживать справедливость везде, где находится он.",
       "stats": [
@@ -9801,8 +9801,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy способен вызывать существ и материализовывать объекты из других миров.",
       "stats": [
@@ -10071,8 +10071,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy находится в гармонии с силами смерти.",
       "stats": [
@@ -10347,8 +10347,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy превратился в лича, отказавшись от жизни в обмен на силу и бессмертное существование, решив использовать нежить для выполнения черной работы.",
       "stats": [
@@ -10647,8 +10647,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy настроен на силы жизни и исцеления и дал обет не причинять вреда другим.",
       "stats": [
@@ -10927,8 +10927,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это прирожденный артист, способный поднять настроение и поднять настроение всем вокруг ему.",
       "stats": [
@@ -11193,8 +11193,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy - исполнитель; развивая свой природный талант, он начал играть сознательную роль, чтобы улучшить настроение других колонистов.",
       "stats": [
@@ -11459,8 +11459,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 2,
       "description": "Все любят быть рядом с Timmy. он обладает талантом, остроумием и мастерством во многих видах развлечений и способен установить личную связь почти со всеми.",
       "stats": [
@@ -11725,8 +11725,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy мастер конферансье. Острый ум, ловкие руки и сухой юмор - это оружие его, а он - мастер всего его оружия.",
       "stats": [
@@ -11991,8 +11991,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет странный генетический штамм, который дает ей повышенные физические характеристики. Она также чрезвычайно привлекательна с экзотической структурой лица, которая захватывает глаз. Суккуб с большей вероятностью использует свои физические преимущества и заставляет других делать за нее ее работу. его очарование суккуба имеет свои недостатки и может заставить некоторых ревновать и даже презирать ему.",
       "stats": [
@@ -12277,8 +12277,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - колдун, способный проявлять физические и демонические силы, используя свой уникальный доступ к тайной силе. Колдун разделяет ту же генетическую смесь, что и суккуб, но как мужчина, он подвержен ментальным улучшениям, которые включают ясновидение и телекинез. Колдун может иногда влиять на результат социального взаимодействия, используя свои умственные способности, независимо от того, как это взаимодействие на самом деле произошло.",
       "stats": [
@@ -12563,8 +12563,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy находится в гармонии с Землей и естественным порядком, черпая силу из физической сферы и переплетая ее с тайной энергией. он способен усиливать физические элементы и сгибать их, как это необходимо он.",
       "stats": [
@@ -12845,8 +12845,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy научился видеть магию и науку как две части одной и той же силы и способен использовать тайную силу для непосредственного взаимодействия с компонентами технологии. он способен манипулировать объектами с помощью продвинутой механики, электроники или вычислять их для достижения целей его, но имеет трудности во взаимодействии с биологическими системами.",
       "stats": [
@@ -13131,8 +13131,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - маг крови, посвятил себя темному искусству манипулирования жизненной кровью живых существ как средством увеличения его власти.\n\n Будучи магом крови, Timmy научился контролировать жизненную силу внутри себя и командовать ею по его воле. его связь с жизнью облегчает общение с другими живыми существами, но не ценит усилия без немедленных результатов.",
       "stats": [
@@ -13407,8 +13407,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это чародей, настроенный на состав материи и материалов. он может манипулировать материей в соответствии с волей его, часто неестественным образом, и его силы трансмутации могут быть постоянными, когда прилагаются достаточные усилия.",
       "stats": [
@@ -13685,8 +13685,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - хрономант. С помощью тайного зрения он способен видеть реальность такой, какой она когда-то была и какой она могла бы быть, и может манипулировать объектами между этими реальностями.",
       "stats": [
@@ -13955,8 +13955,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy отвергает все предопределенные магические пути и отказывается приписывать объективную реальность в его поиске силы; нет никаких истин, вся магия разрешена. Эта традиция позволила Timmy изучать любой тип магии, хотя он никогда не будет овладевать ни одним из них.",
       "stats": [
@@ -14225,8 +14225,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - демон-полукровка со склонностью к магии теней. он развил его уникальные таланты благодаря боевой подготовке и физической подготовке, что делает ему идеальным убийцей.",
       "stats": [
@@ -14891,8 +14891,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - маг света, способный использовать силы света для очищения от зла. он подходит к любой задаче с непревзойденным рвением, которое обычно ставит ему на первый план. Быть Светлым Магом приводит к зависимости от солнца и света, из-за этого Timmy развил сильную ненависть к теням и темным пародиям.",
       "stats": [
@@ -15555,8 +15555,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Шаманы придерживаются более гармоничного подхода к тайным силам, чем большинство магов, выбирая путь, который работает с приливами и отливами магии, чтобы компенсировать или усилить естественный порядок. Timmy родственен царству духов и более настроен на природу и ее элементы.",
       "stats": [
@@ -16217,8 +16217,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Големанты предпочитают использовать свою магию с помощью мощных рун и символов, которые способны передавать цель в объект. Timmy не является исключением; он может создавать руны, которые улучшают базовую механику, изменяют химические вещества в биологической материи и оживляют материал в живых чудовищных существ. Големанты наиболее эффективны, когда направляют свою магию через символы, и им труднее напрямую преобразовывать ману в энергию, но они также обладают более высоким магическим сопротивлением. Большинство големантов, как правило, находят камни более интересными, чем люди, и мало заботятся о чистоте.",
       "stats": [
@@ -16875,8 +16875,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "В тело Timmy вселился дух другой пешки. Обладание в живой пешке создает внутренний конфликт, поскольку функции тела делятся между двумя душами. Этот конфликт может быть уменьшен, если личности совпадают, но еще больше усугубится, если они противоположны. Одержимый умершей пешкой не будет испытывать психических конфликтов, но будет медленно истощать энергию одержимого духа. Дух можно зарядить с помощью медитации или поглощения.",
       "stats": [],
@@ -17419,8 +17419,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "В тело Timmy вселился дух другой пешки. Обладание в живой пешке создает внутренний конфликт, поскольку функции тела делятся между двумя душами. Этот конфликт может быть уменьшен, если личности совпадают, но еще больше усугубится, если они противоположны. Одержимый умершей пешкой не будет испытывать психических конфликтов, но будет медленно истощать энергию одержимого духа. Дух может быть заряжен через медитацию или поглощение.",
       "stats": [],
@@ -18063,8 +18063,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy физический адепт и имеет потенциал для изучения специальных боевых форм.",
       "stats": [
@@ -18199,8 +18199,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - путник; самодисциплинированный боец, который преуспевает в трюках и грязных боях. его беззаботная личность удержала ему от развития классовых способностей. Вместо этого он научился улучшать огромное количество полезных способностей, которые позволяют ему адаптироваться к любой ситуации.\n\nПутники предпочитают открытую дорогу и получат заряд бодрости от пребывания в караване, а любой караван с путником передвигается на 25% быстрее. Однако путники будут испытывать огорчение, если останутся в колонии слишком долго.",
       "stats": [
@@ -18473,8 +18473,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - аптекарь, обученный приготовлению лекарств, бальзамов, настоек и лекарств. Профессия его демонстрирует строгую дисциплину и самоотверженность, а он научился применять дисциплину его к более общим физическим навыкам. С обучением Pawn_proonoun может стать способным во многих боевых приемах, чтобы увеличить навык его в травах.",
       "stats": [
@@ -19139,8 +19139,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy научился тренировать боевой стиль гладиаторов.",
       "stats": [
@@ -19425,8 +19425,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - обученный лесник; предпочитая молчание и смертоносность лука и вооруженный полевым ремеслом и хитростью, он готов защищать его землю от захватчиков.",
       "stats": [
@@ -19703,8 +19703,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy - охотник; он использует полевое ремесло, хитрость и умение обращения с луком, чтобы защитить его землю от захватчиков.",
       "stats": [
@@ -19981,8 +19981,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy - разведчик; ему удобно в дикой местности, и он может быть глазами и ушами колонии. он использует опыт работы в полевых условиях, хитрость и лук, чтобы защитить его землю от захватчиков.",
       "stats": [
@@ -20259,8 +20259,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy - рейнджер, хозяин диких земель.  он - мастер его ремесла и защитник его земли.",
       "stats": [
@@ -20537,8 +20537,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy прошел обучение, чтобы стать стрелком, опытным в точности дальнего боя с применением стрелкового оружия. Подготовка к тому, чтобы стать стрелком, заставила некоторых колонистов чувствовать себя некомфортно рядом с ним, но это не то, о чём снайпер заботится.",
       "stats": [
@@ -20805,8 +20805,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy прошел обучение, чтобы стать снайпером, опытным в экономике и точности дальнего боя с применением стрелкового оружия. Становление снайпером привело к тому, что ему стал отдаленным от других колонистов и несколько неприступным, но это не то, о чём снайпер заботится.",
       "stats": [
@@ -21073,8 +21073,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy - это мастер-снайпер, опытный в экономике и точности дальнего боя со стрелковым оружием. Будучи снайпером, заставляет ему избегать других колонистов, но это их не волнует.",
       "stats": [
@@ -21341,8 +21341,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy - легендарный снайпер, опытный в экономике и точности дальнего боя с применением стрелкового оружия.  Другие колонисты избегают зрительного контакта и шепчутся по углам о том, как опасен он, и это вполне устраивает ему.",
       "stats": [
@@ -21609,8 +21609,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy тренируется, чтобы стать мастером клинка и преуспевает в борьбе в ближнем бою.",
       "stats": [
@@ -21875,8 +21875,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 1,
       "description": "Timmy обучился, чтобы стать Мастером клинка, опасно искусным в ближнем бою.",
       "stats": [
@@ -22141,8 +22141,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy - танцующий с клинками, очень опытный в ближнем бою.  Наблюдение за боем ему подобно наблюдению за танцем, каждое действие точно и безупречно, когда оно перетекает из одной формы в другую.",
       "stats": [
@@ -22409,8 +22409,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy стал легендой, его умение в ближнем бою известно во всем мире. его умение в бою заставляет его выглядеть так, как будто каждое движение, каждый удар-это просто стежок на гобелене, который изображает победу его.",
       "stats": [
@@ -22677,8 +22677,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это мастер маскировки и подражания; способный манипулировать и захватывать мышечные и умственные действия другого человека и высвобождать их как свои собственные.",
       "stats": [
@@ -22957,8 +22957,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это псионик, способный проявлять ментальную силу воли в сырую энергию без использования психического усилителя. он способен проецировать псионическую энергию, но считает более легким и эффективным применять ее в качестве расширения и увеличения тела его. По этой причине он предпочитает быть свободным от обременяющего оружия.\n\nTimmy стал менее социальным с тех пор, как развил псионические способности, поскольку ему может выполнять любую задачу на его самостоятельно и может обходиться без зависти к другим.\n\n* Скорость регенерации псионической энергии основана на психической чувствительности - снижение чувствительности до 0 будет препятствовать регенерации псионической энергии.",
       "stats": [
@@ -23233,8 +23233,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - Рыцарь смерти, предвестник рока и представитель постоянно приближающейся неизбежности смерти. его величественное отношение делает большинство пешек неловкими и еще меньше одобряет методы его.",
       "stats": [
@@ -23503,8 +23503,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это монах, посвятивший себя овладению Ци-энергией, которая соединяет все живое во Вселенной. он использует Ци для создания магических эффектов и превосходит физические возможности его. Timmy также способен нарушать ци у других, влияя на их командование заклинаниями и способностями.",
       "stats": [
@@ -23779,8 +23779,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Как коммандор, Timmy проявляет харизматическую личность и стойкое присутствие, которое заставляет других пешек хотеть следовать за его. Командиры используют вес своего присутствия, чтобы вдохновить ближайших пешек, и когда этого недостаточно, они могут отдавать приказы, которые ведут их последователей к победе. Поскольку Timmy используется для того, чтобы все делали его торги, он считает черную работу ниже статуса его и обычно является плохим работником.",
       "stats": [
@@ -24049,8 +24049,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy - это хорошо обученный солдат, специализирующийся на пистолетах, дробовиках или винтовках. его специализация оружия дополняется стандартным набором боевой подготовки. Суперсолдаты обучены быть агрессивными и считают насилие естественным решением любого спора.",
       "stats": [
@@ -24328,7 +24328,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy никогда не волнуется о согласии партнёра.",
       "stats": [
@@ -24358,7 +24358,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Мертвые же не могут отказать, да?",
       "stats": [
@@ -24386,7 +24386,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy близко дружит с животными.",
       "stats": [
@@ -24412,7 +24412,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любит секс и никогда не оскажется от ещё одного раза.",
       "stats": [
@@ -24448,7 +24448,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy really likes feet and prefers sex acts involving them.",
       "stats": [
@@ -24474,7 +24474,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy really likes cum and prefers fellatio sex acts.",
       "stats": [
@@ -24500,7 +24500,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy really likes getting fucked in the butt and prefers anal sex acts.",
       "stats": [
@@ -24525,8 +24525,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Красные маги - грациозные мечники-чародеи, смертоносные на поле боя. ",
       "stats": [
@@ -25087,8 +25087,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Нинзя - скрытные и ловкие бойцы с несколькими волшебными трюками в рукаве. Они преуспевают в уничтожении противника ещё до того, как тот узнает, что его поразило.",
       "stats": [
@@ -25641,8 +25641,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Стихийные стрелки - магически одаренные пешки, умеющие наполнять боеприпасы магической силой. Их магически укрепленное сознание позволяет стрелять с устрашающей скоростью. Они специальзируются на ведении подавляющей стрельбы.  ",
       "stats": [
@@ -26189,8 +26189,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Бомбардиры - бойцы, специализирующиеся на дальнобойнем взрывном оружии. Они являются экспертами в осадной войне и могут стрелять взрывчаткой из-за укрытия.",
       "stats": [
@@ -26735,8 +26735,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Рейлбрейкеры - безрассудные бойцы ближнего боя, оснащенные чрезвычайно опасными имплантами, позволяющими им произвольно создавать взрывы, которые они запускают в упор. Они не имеют себе равных в огневой мощи, но их самая большая слабость - отдача от их собственных способностей.",
       "stats": [
@@ -27289,8 +27289,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Самураи - странствующие мечники, которые специализируются на Иай.",
       "stats": [
@@ -27845,8 +27845,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Гаджетеры - эксцентричные изобретатели, которые носят с собой множество гаджетов и инструментов, помогающих им в повседневной жизни.",
       "stats": [
@@ -28403,8 +28403,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Маги ветра - способные колдуны, подчинившие воздух своей воле.",
       "stats": [
@@ -28959,8 +28959,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Медики - люди, посвятивший себя врачебной деятельности, они имеют множество вспомогательных способностей, которыми они поддерживают союзников. Из-за того что они посвятили себя спасению жизни, бойцы из них не слишком хорошие.",
       "stats": [
@@ -29521,8 +29521,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Хроматические маги - разносторонние заклинатели, чьи врожденные способности позволяют изучать магию самых разных направлений. Они могут выучить любое из нескольких мощных заклинаний, но они никогда не станут мастерами во всех них. Их максимальный уровень - 30.",
       "stats": [
@@ -30071,8 +30071,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Предвестники - маги, присутствие которых всегда предвещает смерть и разрушение. Они способны использовать темные силы, чтобы проклинать своих врагов, развращая их тело и душу. Из-за их уникальной связи со своими жертвами, большинство их заклинаний не требует прямой видимости для произнесения.",
       "stats": [
@@ -30625,8 +30625,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Никто не знает истинного происхождения жнецов, но в бою они больше всего напоминает демонов. Они  беспрепятственно влетают прямо на вражеские позиции и искажает умы своих врагов, вызывая раздор и разруху.",
       "stats": [
@@ -31179,8 +31179,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Берсеркеры - яростные бойцы, которые живут только ради боя.",
       "stats": [
@@ -31749,8 +31749,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Сционы - бойцы ближнего боя, которых направляют аспекты древних духов, помогающие им как в бою, так и в повседневной жизни.",
       "stats": [
@@ -32303,8 +32303,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Чумные доктора - полубезумные средневековые врачи, восхищающиеся ядами и болезнями. Они способны выполнять ужасающие хирургические операции как на союзниках, так и на врагах.",
       "stats": [
@@ -32855,8 +32855,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Клерики - универсальные целители среднего уровня, они способны быстро исцелить союзников или очистить их от ослаблений.",
       "stats": [
@@ -33405,8 +33405,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Арбормансеры - маги, берущие силу из живых растений. Однако это не значит что они являются любителями природы. Они часто вызывают гнев у рейнджеров и друидов из-за своего бессмысленно жестокого обращения с природой.",
       "stats": [
@@ -33959,8 +33959,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Хранители цепей - бойцы, научившиеся использовать цепи как боевое оружие. Они превосходно контролируют движения врага и справляются с несколькими противниками одновременно.",
       "stats": [
@@ -34509,8 +34509,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Мастера засад - бойцы, спокойно поджидающие своих врагов в расставленные ими ловушки и добивающие их своими разрушительными способностями ближнего боя.",
       "stats": [
@@ -35063,8 +35063,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Диверсанты - бойцы, специализирующиеся на проникновении в тыл врага и выведении из строя их ключевых объектов и обороны.",
       "stats": [
@@ -35617,8 +35617,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Хранители - маги, специализирующиеся на защитной магии.",
       "stats": [
@@ -36175,8 +36175,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Прайдсталкеры - бойцы, использующие лук и магию, что бы превратить бой в смертельную охоту.",
       "stats": [
@@ -36735,8 +36735,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Искатели звезд - неопытные маги с невероятным потенциалом.",
       "stats": [
@@ -37311,8 +37311,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Претенденты - неопытные бойцы с невероятным потенциалом.",
       "stats": [
@@ -37887,8 +37887,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Соколиный глаз - бойцы, посвятившие свою жизнь мастерскому овладению луком.",
       "stats": [
@@ -38435,8 +38435,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Атронахи - аномалия среди заклинателей. Они способны использовать мощные заклинания, но они полностью отрезаны от потока магии и не регенерируют ману. Они вынуждены искать свои собственные источники маны, чтобы подпитывать свои заклинания.",
       "stats": [
@@ -38987,8 +38987,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Специалисты поддержки это универсальные бойцы с дробовиками, способные поражать ключевые цели, удерживать линию обороны или поддерживать союзников.",
       "stats": [
@@ -39547,8 +39547,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Задиры - бойцы, предпочитающие драться голыми руками. Они не имеют себе равных в бою 1 на 1, имея в запасе огромное количество различных ударов.",
       "stats": [
@@ -40107,8 +40107,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Астрологи, гадалки, провидцы - всё это Оракулы. Так как они черпают свою силу из самих звезд, они медленно и обдуманно читают свои заклинания, но могут использовать их на цель из любой точки на карте.",
       "stats": [
@@ -40663,8 +40663,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Мистики - бойцы, которые используют духовную энергию, чтобы выводить врагов из строя.",
       "stats": [
@@ -41219,8 +41219,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Разрушители чар - бойцы, которые отлично противостоят атакам противника, и умеют разбираться с вражескими бойцами и магами, запрещая им использовать умения и заклинания.",
       "stats": [
@@ -41773,8 +41773,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Вестники сумерек - бойцы, овладевшие разрушительными силами света и тьмы.",
       "stats": [
@@ -42323,8 +42323,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Благословленные грозой - бойцы, при рождении наделенные силами молний, но не ставшие магами. Они совершают разрушительные атаки, но из-за того что их тела содержат в себе огромную силу, которую трудно сдерживать, они получают больше урона.",
       "stats": [
@@ -42879,8 +42879,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Маги-стрелки - наемники, которых нередко можно встретить в пыльных барах Окраинных Миров. Их навыки уничтожать цели на расстоянии не имеют себе равных, но из-за жизни наемных убийц, они не привыкли выполнять простую работу и повседневные задачи. Они способны использовать магию, что бы сделать свои пули ещё более смертоносными, но у них нет врожденной регенерации маны.",
       "stats": [
@@ -43433,8 +43433,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Похитители заклинаний - маги-обманщики, способные легко проникать в стан врагов и саботировать их. Они могут копировать способности союзников и врагов.",
       "stats": [
@@ -43987,8 +43987,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Драгуны -  ловкие рыцари, впитавшие в себя силу древних драконов, что обеспечило им черезвычайную устойчивость к жаре. Они способны взмывать в небо, обхитряя и уничтожая своих противников.",
       "stats": [
@@ -44541,8 +44541,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Черные маги - специализированные боевые маги, способные обрушивать на своих врагов нескончаемую разрушительную магию.",
       "stats": [
@@ -45105,8 +45105,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Школяры - магические стратеги, способные защитить своих союзников от вреда. Они очень плохие бойцы, но отлично поддерживают своих союзников в бою.",
       "stats": [
@@ -45663,8 +45663,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Ганбрейкеры - неординарные бойцы, предпочитающие использовать оружие дальнего боя в рукопашном бою. Они способны быстро атаковать свои цели сокрушительными атаками расходуя специальные заряды.",
       "stats": [
@@ -46215,8 +46215,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Тяжелые стрелки - бойцы, которые предпочитают оружие дальнего боя с мощными одиночными выстрелами. Они способны накапливать заряды и выпускать быстрые очереди подавляющего огня.",
       "stats": [
@@ -46763,8 +46763,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Воители - бойцы ближнего боя, обученные выживать на передовой.",
       "stats": [
@@ -47327,8 +47327,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Кочевники - универсальные лучники, которые хорошо сражаются как в ближнем бою, так и на расстоянии.",
       "stats": [
@@ -47881,8 +47881,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Стражи - стойкие защитники, которые используют клинки и магию для защиты своих союзников.",
       "stats": [
@@ -48433,8 +48433,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Голокузнецы - обычные люди, за исключением одного - они используют удивительную Фотонную кузницу, которая позволяет им использовать силу света на короткие периоды времени, позволяя им не отставать от других обученных бойцов.",
       "stats": [
@@ -48983,8 +48983,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Трубадуры - лучники, поддерживающие своих союзников стрелами и песнями.",
       "stats": [
@@ -49539,8 +49539,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Картежник - красноречивый бродяга с волшебной колодой карт. Они разыгрывают судьбу и жизнь как колоду карт. ",
       "stats": [
@@ -50093,8 +50093,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Шеф-повара - обычные люди, посвятившие себя готовке и приготовлению блюд, которые помогают облегчить бремя их союзников.",
       "stats": [
@@ -50645,8 +50645,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Рудокопы - обученные специалисты, способные с легкостью прорываться сквозь горные породы и добывать руду .",
       "stats": [
@@ -51201,8 +51201,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Страйкеры - безоружные бойцы, являющиеся более агрессивным ответвлением от Монахов - они отказались от защиты и исцеления в обмен на более быстрый и мощный стиль боя.",
       "stats": [
@@ -51755,8 +51755,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Рунные рыцари - боевые маги,специализирующиеся на наполнении маной особых рун, которые они смогут использовать позднее, что позволяет им заранее подготовится к столкновению с противниками. У них есть доступ к наступательной, защитной и исцеляющей магии.",
       "stats": [
@@ -52305,8 +52305,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Цветущие клинки - изящные танцующие с клинками, тесно связанные с природой. Они способны быстро атаковать свои цели, изнуряя их. Их способности подпитываются специальными травами, которые они собирают.",
       "stats": [
@@ -52863,8 +52863,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Ненасытный. Никто достоверно не знает, как возникают эти существа - из-за врожденных отклонений, химических экспериментов или магических аномалий. Единственное, что все знают наверняка, - это то, что этим существам необходимо питаться, всегда, и всем. Несмотря на то, что они не прошли должную подготовку, они способны изучать способности бойцов и магов. Возможно, они пожрали знания у какой-то несчастной души...",
       "stats": [
@@ -53409,8 +53409,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Одни делают это из мести, другие - за плату. Какой бы ни была причина, Timmy - PAWN_gender ? один : одна из PAWN_gender ? охотников : охотниц на мехов, бойцов, посвятивших свою жизнь искоренению механоидов.",
       "stats": [
@@ -53957,8 +53957,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Timmy - Мастер-стрелок, мобильный боец, подавляющий противников непрерывным потоком пуль.",
       "stats": [
@@ -54507,8 +54507,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Timmy — Несущий тень, боец ​​ближнего боя, использующий силу тьмы для уничтожения своих врагов..",
       "stats": [
@@ -55061,8 +55061,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Timmy — Страж, ответвление Геоманта, прошедшее обучение на боевого мага и предпочитающее быть в гуще боя..",
       "stats": [
@@ -55613,8 +55613,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Никто не принадлежит к Краевому миру больше, чем Timmy — им не привыкать к загрязнению, яду, наркотикам или насилию, они аугментировали свое тело, чтобы позволить им обрабатывать опасные наркотики в бою, что позволяет им использовать свое тело в качестве ядовитого оружия..",
       "stats": [
@@ -56167,8 +56167,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Timmy — Исследователь. Их путешествия по земле дали им представление о многочисленных школах как магии, так и силы — они способны изучать способности практически любого свитка мага или бойца. Однако они не обладают собственными врожденными способностями..",
       "stats": [
@@ -56719,8 +56719,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 6000,
+      "removePrice": 500,
       "degree": 4,
       "description": "Timmy — Архитектор, маг, который применяет свою магию к строениям, позволяя им возводить или разрушать здания в любой момент. Архитекторы редко напрямую вступают в бой со своими врагами, они предпочитают формировать сам ландшафт, чтобы он был негостеприимным для своих врагов. Большинство их заклинаний можно использовать из любой точки карты.",
       "stats": [
@@ -57270,7 +57270,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy наслаждается уединением и спокойствием, присущим долгой рыбалке. он предпочитает рыбалку другим занятиям.",
       "stats": [],
@@ -57292,7 +57292,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "Timmy обладает неестественной, почти первозданной красотой ему которая выделяет среди себе его подобных.",
       "stats": [
@@ -57318,7 +57318,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": -2,
       "description": "Timmy настолько непостижимо уродлив и гротескен, что одного взгляда на него достаточно, ему чтобы вызвать у других людей тошноту.",
       "stats": [
@@ -57344,7 +57344,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy имеет прочный экзоскелет, он получает гораздо меньше урона, чем другие Антисы от тех же ударов.",
       "stats": [
@@ -57374,7 +57374,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy не подвержен влиянию старения.",
       "stats": [],
@@ -57396,7 +57396,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Жизнь Timmy вращается вокруг борьбы. У он не хватает ума делать что-то еще.",
       "stats": [
@@ -57424,7 +57424,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 1,
       "description": "Время от времени Timmy будет ходить во сне.",
       "stats": [],
@@ -57446,7 +57446,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 2,
       "description": "По неизвестной причине Timmy делает странные вещи во время сна.",
       "stats": [],
@@ -57468,7 +57468,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 3,
       "description": "Timmy лунатит почти каждую ночь. Может, кровать недостаточно удобная?",
       "stats": [],
@@ -57490,7 +57490,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "В Timmy преобладает человеческая кровь, подавляющая более свирепую Драконью кровь.",
       "stats": [
@@ -57544,7 +57544,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy любить причинять боль людям и не обращает внимания на вид крови или смерти. он в четыре раза чаще других затевает драки.",
       "stats": [
@@ -57574,7 +57574,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy обожает драться в рукопашном бою. PAWN_gender ? Его : её точность в рукопашном бою значительно увеличена, но он будет очень PAWN_gender ? недоволен : недовольна если вручить PAWN_gender ? ему : ей огнестрел.",
       "stats": [
@@ -57618,7 +57618,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 500,
       "degree": 0,
       "description": "Timmy считает, что любая простоя работа ниже его достоинства.",
       "stats": [],
