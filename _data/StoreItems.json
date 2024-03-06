@@ -1407,13 +1407,13 @@
 	{
 		"abr": "мусорнаякрыса",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "WasteRat"
 	},
 	{
 		"abr": "токсилопа",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Toxalope"
 	},
 	{
@@ -6189,83 +6189,83 @@
 	{
 		"abr": "свигл",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishSduiggles"
 	},
 	{
 		"abr": "saberfish",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefSaberfish"
 	},
 	{
 		"abr": "redfintuna",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefRedfinTuna"
 	},
 	{
 		"abr": "машгон",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishMashgon"
 	},
 	{
 		"abr": "cuda",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefCuda"
 	},
 	{
 		"abr": "iceflounder",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefIceFlounder"
 	},
 	{
 		"abr": "морскойзмей",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishSeasnake"
 	},
 	{
 		"abr": "хвостатыйшилозуб",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishTailteeth"
 	},
 	{
 		"abr": "голубойклинок",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishBlueblade"
 	},
 	{
 		"abr": "killercatfish",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishKillerCatfish"
 	},
 	{
 		"abr": "deathsturgeon",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefDeathSturgeon"
 	},
 	{
 		"abr": "sterlingperch",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishSterlingPerch"
 	},
 	{
 		"abr": "pinstripebass",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ThingDefFishPinstripeBass"
 	},
 	{
-		"abr": "генераторпси-импульса(животные)",
+		"abr": "генераторпси-импульса(Animal)",
 		"price": 2583,
 		"category": "Артефакты",
 		"defname": "PsychicAnimalPulser"
@@ -7005,619 +7005,619 @@
 	{
 		"abr": "муффало",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Muffalo"
 	},
 	{
 		"abr": "газель",
 		"price": 533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Gazelle"
 	},
 	{
 		"abr": "игуана",
 		"price": 267,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
 		"abr": "верблюд",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dromedary"
 	},
 	{
 		"abr": "альфало",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Buffalo"
 	},
 	{
 		"abr": "баран",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Sheep"
 	},
 	{
 		"abr": "медведь",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "белыймедведь",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
 	{
 		"abr": "панда",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "PandaBear"
 	},
 	{
 		"abr": "пума",
 		"price": 1750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cougar"
 	},
 	{
 		"abr": "пантера",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Panther"
 	},
 	{
 		"abr": "рысь",
 		"price": 1417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Lynx"
 	},
 	{
 		"abr": "тигр",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Tiger"
 	},
 	{
 		"abr": "белыйтигр",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "WhiteTiger"
 	},
 	{
 		"abr": "сежныйлеопард",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "SnowLeopard"
 	},
 	{
 		"abr": "ягуар",
 		"price": 2167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Jaguar"
 	},
 	{
 		"abr": "страус",
 		"price": 600,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Ostrich"
 	},
 	{
 		"abr": "эму",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
 		"abr": "казуар",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
 		"abr": "москит-мутант",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Mosquito"
 	},
 	{
 		"abr": "жук",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Crashbug"
 	},
 	{
 		"abr": "муха-мутант",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fly"
 	},
 	{
 		"abr": "блоха",
 		"price": 283,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Flea"
 	},
 	{
 		"abr": "таракан",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cockroach"
 	},
 	{
 		"abr": "пожиратель",
 		"price": 83,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "CropEaterInsect"
 	},
 	{
 		"abr": "кошка",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cat"
 	},
 	{
 		"abr": "курица",
 		"price": 183,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
 		"abr": "утка",
 		"price": 150,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Duck"
 	},
 	{
 		"abr": "индейка",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
 		"abr": "гусь",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Goose"
 	},
 	{
 		"abr": "снорк",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Snork"
 	},
 	{
 		"abr": "терраморф",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Terramorph"
 	},
 	{
 		"abr": "arcticdesiri",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Animal_Desiri"
 	},
 	{
 		"abr": "temperatedesiri",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Animal_Desiri_TemperateOne"
 	},
 	{
 		"abr": "temperatedesiri",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Animal_Desiri_TemperateTwo"
 	},
 	{
 		"abr": "urbandesiri",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Animal_Desiri_Urban"
 	},
 	{
 		"abr": "desertdesiri",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Animal_Desiri_Desert"
 	},
 	{
 		"abr": "йоркширскийтерьер",
 		"price": 650,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
 	{
 		"abr": "хаски",
 		"price": 1583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Husky"
 	},
 	{
 		"abr": "лабрадор-ретривер",
 		"price": 1383,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
 	{
 		"abr": "немецкаяовчарка",
 		"price": 1383,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "GermanShepherd"
 	},
 	{
 		"abr": "феникс",
 		"price": 25000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Feenix"
 	},
 	{
 		"abr": "зелёнаявиверна",
 		"price": 25000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "GreenWyvern"
 	},
 	{
 		"abr": "кирин",
 		"price": 25000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Kirin"
 	},
 	{
 		"abr": "бехир",
 		"price": 25000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Behir"
 	},
 	{
 		"abr": "пернатыйраптор",
 		"price": 13333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "FRaptor"
 	},
 	{
 		"abr": "баргест",
 		"price": 20000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Barghest"
 	},
 	{
 		"abr": "свинья",
 		"price": 517,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Pig"
 	},
 	{
 		"abr": "корова",
 		"price": 2500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cow"
 	},
 	{
 		"abr": "альпака",
 		"price": 1050,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Alpaca"
 	},
 	{
 		"abr": "зубр",
 		"price": 1333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Bison"
 	},
 	{
 		"abr": "коза",
 		"price": 533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Goat"
 	},
 	{
 		"abr": "як",
 		"price": 1200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Yak"
 	},
 	{
 		"abr": "морскаясвинка",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "GuineaPig"
 	},
 	{
 		"abr": "осёл",
 		"price": 533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Donkey"
 	},
 	{
 		"abr": "фенек",
 		"price": 633,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
 	{
 		"abr": "лисица",
 		"price": 633,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "песец",
 		"price": 633,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "носорог",
 		"price": 3667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
 	{
 		"abr": "слон",
 		"price": 5333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Elephant"
 	},
 	{
 		"abr": "мамонт",
 		"price": 6333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Mammoth"
 	},
 	{
 		"abr": "мегатерий",
 		"price": 6000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megasloth"
 	},
 	{
 		"abr": "трумбо",
 		"price": 10000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Thrumbo"
 	},
 	{
 		"abr": "мегабарсук",
 		"price": 3667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megabadger"
 	},
 	{
 		"abr": "шерстистыйносорог",
 		"price": 3167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rhino_Wooly"
 	},
 	{
 		"abr": "заяц",
 		"price": 150,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
 		"abr": "беляк",
 		"price": 150,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Snowhare"
 	},
 	{
 		"abr": "лошадь",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Horse"
 	},
 	{
 		"abr": "шерстистаялошадь",
 		"price": 2333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Horse_Wooly"
 	},
 	{
 		"abr": "гиена",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "SpottedHyena"
 	},
 	{
 		"abr": "мегаскарабей",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
 		"abr": "пещерныйжук",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
 		"abr": "мегапаук",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
 		"abr": "скорпион",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Scorpion"
 	},
 	{
 		"abr": "фишер",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fishercat"
 	},
 	{
 		"abr": "горностай",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Ermine"
 	},
 	{
 		"abr": "сурикат",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Meerkat"
 	},
 	{
 		"abr": "куропатка",
 		"price": 125,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Ptarmigan"
 	},
 	{
 		"abr": "белка",
 		"price": 233,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
 		"abr": "альфабобёр",
 		"price": 367,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
 	{
 		"abr": "капибара",
 		"price": 400,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Capybara"
 	},
 	{
 		"abr": "шиншилла",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Chinchilla"
 	},
 	{
 		"abr": "бумкрыса",
 		"price": 933,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Boomrat"
 	},
 	{
 		"abr": "енот",
 		"price": 400,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Raccoon"
 	},
 	{
 		"abr": "крыса",
 		"price": 150,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rat"
 	},
 	{
 		"abr": "бурундук",
 		"price": 83,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Chipmunk"
 	},
 	{
 		"abr": "саблезубыйтигр",
 		"price": 2500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "SmilodonPop"
 	},
 	{
 		"abr": "олень",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Deer"
 	},
 	{
 		"abr": "горныйкозёл",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Ibex"
 	},
 	{
 		"abr": "марал",
 		"price": 1583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Elk"
 	},
 	{
 		"abr": "северныйолень",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Caribou"
 	},
 	{
 		"abr": "кабан",
 		"price": 650,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "WildBoar"
 	},
 	{
 		"abr": "черепаха",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
 		"abr": "кобра",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Cobra"
 	},
 	{
 		"abr": "обезьяна",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Monkey"
 	},
 	{
 		"abr": "бумалопа",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Boomalope"
 	},
 	{
 		"abr": "лакосдил",
 		"price": 3833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Lacosdile"
 	},
 	{
 		"abr": "окапи",
 		"price": 800,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Okapi"
 	},
 	{
 		"abr": "варг",
 		"price": 1967,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Warg"
 	},
 	{
 		"abr": "найтлинг",
 		"price": 1633,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Nightling"
 	},
 	{
 		"abr": "волк",
 		"price": 1533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
 	{
 		"abr": "полярныйволк",
 		"price": 1533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "римволк",
 		"price": 1533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rimwolf"
 	},
 	{
@@ -7647,13 +7647,13 @@
 	{
 		"abr": "антис",
 		"price": 6667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Antis"
 	},
 	{
 		"abr": "гнаулер",
 		"price": 6667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Gnawler"
 	},
 	{
@@ -11211,13 +11211,13 @@
 	{
 		"abr": "королевскийхомяк",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "RK_KingHamster"
 	},
 	{
 		"abr": "ротти",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rotti"
 	},
 	{
@@ -13149,799 +13149,799 @@
 	{
 		"abr": "акантамёба(малая)",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaSmall"
 	},
 	{
 		"abr": "акантамёба(большая)",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaLarge"
 	},
 	{
 		"abr": "акантамёба(огромная)",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaHuge"
 	},
 	{
 		"abr": "аэрофлит",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Aerofleet"
 	},
 	{
 		"abr": "колоссальныйаэрофлит",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ColossalAerofleet"
 	},
 	{
 		"abr": "грибоход",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Agaripawn"
 	},
 	{
 		"abr": "грибобрюх",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Agaripod"
 	},
 	{
 		"abr": "личинкаангельскоймоли",
 		"price": 25,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AngelMothLarva"
 	},
 	{
 		"abr": "ангельскаямоль",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AngelMoth"
 	},
 	{
 		"abr": "анима-колосс",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AnimaColossus"
 	},
 	{
 		"abr": "анималиск",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Animalisk"
 	},
 	{
 		"abr": "духолис",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AnimusVox"
 	},
 	{
 		"abr": "арктическийлев",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ArcticLion"
 	},
 	{
 		"abr": "личинкаатиспека",
 		"price": 25,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
 	},
 	{
 		"abr": "атиспек",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Atispec"
 	},
 	{
 		"abr": "сильфполярногосияния",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_AuroraSylph"
 	},
 	{
 		"abr": "шипомёт",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Barbslinger"
 	},
 	{
 		"abr": "постельныйклоп",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BedBug"
 	},
 	{
 		"abr": "бегемот",
 		"price": 8333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Behemoth"
 	},
 	{
 		"abr": "чёрныйскарабей",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BlackScarab"
 	},
 	{
 		"abr": "чёрнаямногоножка",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BlackSpelopede"
 	},
 	{
 		"abr": "чёрныйпаук",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BlackSpider"
 	},
 	{
 		"abr": "метелиск",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Blizzarisk"
 	},
 	{
 		"abr": "королеваметелисков",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BlizzariskClutchMother"
 	},
 	{
 		"abr": "кроваваякреветка",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BloodShrimp"
 	},
 	{
 		"abr": "бобин",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Bobeene"
 	},
 	{
 		"abr": "глыбонос",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BoulderMit"
 	},
 	{
 		"abr": "высшийкраб",
 		"price": 2500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_SummitCrab"
 	},
 	{
 		"abr": "шмель",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Bumbledrone"
 	},
 	{
 		"abr": "шмель-иерофант",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BumbledroneHierophant"
 	},
 	{
 		"abr": "королевашмелей",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_BumbledroneQueen"
 	},
 	{
 		"abr": "кактипин",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Cactipine"
 	},
 	{
 		"abr": "як-хамелеон",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ChameleonYak"
 	},
 	{
 		"abr": "химирдон",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ChemfuelMyrmidon"
 	},
 	{
 		"abr": "пеплолиск",
 		"price": 958,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Cinderlisk"
 	},
 	{
 		"abr": "сумеречныйжук",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_CrepuscularBeetle"
 	},
 	{
 		"abr": "крещендо-анол",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_CrescendoAnole"
 	},
 	{
 		"abr": "хрустальныйкаракал",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_CrystallineCaracal"
 	},
 	{
 		"abr": "рифонос",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_CrystalMit"
 	},
 	{
 		"abr": "мракозверь",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Darkbeast"
 	},
 	{
 		"abr": "тёмныйвандал",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DarkVandal"
 	},
 	{
 		"abr": "драконраспада",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DecayDrake"
 	},
 	{
 		"abr": "пустынныйцезарь",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DesertAve"
 	},
 	{
 		"abr": "дьявольскаяовца",
 		"price": 1333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DevilSheep"
 	},
 	{
 		"abr": "личинкаосушителя",
 		"price": 25,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DrainerLarva"
 	},
 	{
 		"abr": "осушитель",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Drainer"
 	},
 	{
 		"abr": "дюналиск",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Dunealisk"
 	},
 	{
 		"abr": "королевадюналисков",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DunealiskClutchMother"
 	},
 	{
 		"abr": "сумеречныйбродяга",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DuskProwler"
 	},
 	{
 		"abr": "сумеречнаякрыса",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_DuskRat"
 	},
 	{
 		"abr": "личинкабабочки-императрицы",
 		"price": 83,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_EmpressButterflyLarva"
 	},
 	{
 		"abr": "бабочка-императрица",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_EmpressButterfly"
 	},
 	{
 		"abr": "набухшаятентаклеваяабберация",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_EngorgedTentacularAberration"
 	},
 	{
 		"abr": "эрин",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Erin"
 	},
 	{
 		"abr": "глазлинг",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Eyeling"
 	},
 	{
 		"abr": "фералиск",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Feralisk"
 	},
 	{
 		"abr": "королевафералисков",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FeraliskClutchMother"
 	},
 	{
 		"abr": "огненнаяоса",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FireWasp"
 	},
 	{
 		"abr": "дублимышь",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
 	{
 		"abr": "дублимышь(второепоколение)",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "дублимышь(третьепоколение)",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
 	{
 		"abr": "фламинго-феникс",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FlamingoPhoenix"
 	},
 	{
 		"abr": "морозныйцезарь",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FrostAve"
 	},
 	{
 		"abr": "морозныйбегемот",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FrostboundBehemoth"
 	},
 	{
 		"abr": "фростлинг",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Frostling"
 	},
 	{
 		"abr": "морознаярысь",
 		"price": 625,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FrostLynx"
 	},
 	{
 		"abr": "морозныйклещ",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Frostmite"
 	},
 	{
 		"abr": "грибковаяоболочка",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_FungalHusk"
 	},
 	{
 		"abr": "галлатросс",
 		"price": 6667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Gallatross"
 	},
 	{
 		"abr": "умирающийгаллатросс",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_GallatrossMoribund"
 	},
 	{
 		"abr": "геникс",
 		"price": 625,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Genix"
 	},
 	{
 		"abr": "коронованнаясилки",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_GiantCrownedSilkie"
 	},
 	{
 		"abr": "гигантелопа",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Gigantelope"
 	},
 	{
 		"abr": "великийпожиратель",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_GreatDevourer"
 	},
 	{
 		"abr": "зеленаяслизь",
 		"price": 208,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_GreenGoo"
 	},
 	{
 		"abr": "серошерстыймуфлон",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_GreyCoatedMouflon"
 	},
 	{
 		"abr": "землеход",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Groundrunner"
 	},
 	{
 		"abr": "cпиральныйслизень",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Helixien"
 	},
 	{
 		"abr": "инфицированныйаэрофлит",
 		"price": 300,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_InfectedAerofleet"
 	},
 	{
 		"abr": "сталеродныйжук",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_IronhuskBeetle"
 	},
 	{
 		"abr": "джунглиск",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Junglelisk"
 	},
 	{
 		"abr": "челюстян",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Lockjaw"
 	},
 	{
 		"abr": "жук-люцифер",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_LuciferBug"
 	},
 	{
 		"abr": "червь-мамонт",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_MammothWorm"
 	},
 	{
 		"abr": "людоловка",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Mantrap"
 	},
 	{
 		"abr": "проглот",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_MatureFleshbeast"
 	},
 	{
 		"abr": "луговойцезарь",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_MeadowAve"
 	},
 	{
 		"abr": "мегавошь",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_MegaLouse"
 	},
 	{
 		"abr": "металловора",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Metallovore"
 	},
 	{
 		"abr": "мим",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Mime"
 	},
 	{
 		"abr": "мраклинг",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Murkling"
 	},
 	{
 		"abr": "грибнойколосс",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_MycoidColossus"
 	},
 	{
 		"abr": "иглодон",
 		"price": 1050,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Needlepost"
 	},
 	{
 		"abr": "иглокат",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Needleroll"
 	},
 	{
 		"abr": "найтмул",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_NightMule"
 	},
 	{
 		"abr": "ночнойцезарь",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_NightAve"
 	},
 	{
 		"abr": "найтлинг",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Nightling"
 	},
 	{
 		"abr": "найтрам",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_NightRam"
 	},
 	{
 		"abr": "окулярнаямедуза",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_OcularJelly"
 	},
 	{
 		"abr": "окулярныйнайтлинг",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_OcularNightling"
 	},
 	{
 		"abr": "поросшийколосс",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_OvergrownColossus"
 	},
 	{
 		"abr": "гальконос",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_PebbleMit"
 	},
 	{
 		"abr": "породистыйраптор",
 		"price": 1750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_PedigreedRaptor"
 	},
 	{
 		"abr": "совиныйкот-феникс",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_PhoenixOwlcat"
 	},
 	{
 		"abr": "плазморф",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Plasmorph"
 	},
 	{
 		"abr": "радиак",
 		"price": 4167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Radyak"
 	},
 	{
 		"abr": "хищнаякреветка",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RaptorShrimp"
 	},
 	{
 		"abr": "опустошитель",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Ravager"
 	},
 	{
 		"abr": "электрогончая",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RayHound"
 	},
 	{
 		"abr": "бритворот",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Razorjack"
 	},
 	{
 		"abr": "краснаяслизь",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RedGoo"
 	},
 	{
 		"abr": "краснаяспора",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RedSpore"
 	},
 	{
 		"abr": "рипперхаунд",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RipperHound"
 	},
 	{
 		"abr": "пластинчатыйваран",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RoughPlatedMonitor"
 	},
 	{
 		"abr": "королевскийцезарь",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_RoyalAve"
 	},
 	{
 		"abr": "песчаныйлев",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_SandLion"
 	},
 	{
 		"abr": "песчаныйбродяга",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_SandProwler"
 	},
 	{
 		"abr": "песчаныйкальмар",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_SandSquid"
 	},
 	{
 		"abr": "теневойбодальщик",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ShadowCharger"
 	},
 	{
 		"abr": "шоковыйкозёл",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_ShockGoat"
 	},
 	{
 		"abr": "мерцающаягончая",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Skiphound"
 	},
 	{
 		"abr": "небесныйугорь",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Skyeel"
 	},
 	{
 		"abr": "навозница",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Slurrypede"
 	},
 	{
 		"abr": "шипастыйкорозел",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_SpinedGow"
 	},
 	{
 		"abr": "свармлинг",
 		"price": 58,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Swarmling"
 	},
 	{
 		"abr": "смололюб",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_TarGuzzler"
 	},
 	{
 		"abr": "тератогенныйизобретатель",
 		"price": 1417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_TeratogenicOriginator"
 	},
 	{
 		"abr": "терраморф",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Terramorph"
 	},
 	{
 		"abr": "тетраслизень",
 		"price": 6667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_TetraSlug"
 	},
 	{
 		"abr": "термадон",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Thermadon"
 	},
 	{
 		"abr": "громозверь",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Thunderbeast"
 	},
 	{
 		"abr": "грозорёв",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Thunderox"
 	},
 	{
 		"abr": "немигающийглаз",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_UnblinkingEye"
 	},
 	{
@@ -13953,19 +13953,19 @@
 	{
 		"abr": "дикоход",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Wildpawn"
 	},
 	{
 		"abr": "дикобрюх",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_Wildpod"
 	},
 	{
 		"abr": "ветрозверь",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AA_WindBeast"
 	},
 	{
@@ -14019,199 +14019,199 @@
 	{
 		"abr": "королевскаяодеждамойо",
 		"price": 2558,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Royalsuit"
 	},
 	{
 		"abr": "королевскаямантиямойоа",
 		"price": 2317,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_RoyalRobeA"
 	},
 	{
 		"abr": "королевскаямантиямойов",
 		"price": 2317,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_RoyalRobeB"
 	},
 	{
 		"abr": "королевскаямантиямойос",
 		"price": 2317,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_RoyalRobeC"
 	},
 	{
 		"abr": "экзотическоечерноеплатьемойо",
 		"price": 2250,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_RoyalBlackDress"
 	},
 	{
 		"abr": "проекционныйкостюмdeepocean",
 		"price": 1975,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Holosuit"
 	},
 	{
 		"abr": "курткаглубоководная",
 		"price": 2317,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_HoloJacket"
 	},
 	{
 		"abr": "мини-голопроектормойоа",
 		"price": 280,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_RoyalHologramA"
 	},
 	{
 		"abr": "мини-голопроектормойов",
 		"price": 280,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_RoyalHologramB"
 	},
 	{
 		"abr": "мини-голопроектормойос",
 		"price": 280,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_RoyalHologramC"
 	},
 	{
 		"abr": "доспехикоролевскойгвардиимойо",
 		"price": 5617,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_GDsuit"
 	},
 	{
 		"abr": "шлемкоролевскойгвардиимойо",
 		"price": 1833,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_GDhelmet"
 	},
 	{
 		"abr": "легкаябронякоролевскойгвардиимойо",
 		"price": 5183,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_GSsuit"
 	},
 	{
 		"abr": "легкаяшлемкоролевскойгвардиимойо",
 		"price": 1583,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_GShelmet"
 	},
 	{
 		"abr": "майкасзавязкамимойо",
 		"price": 211,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Tribal"
 	},
 	{
 		"abr": "паркамойо",
 		"price": 315,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Parka"
 	},
 	{
 		"abr": "бондажглубоководнойрабыни",
 		"price": 275,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_BodyStrap"
 	},
 	{
 		"abr": "костюмисапогимойо",
 		"price": 297,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_SnB"
 	},
 	{
 		"abr": "курткамойо",
 		"price": 275,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Jacket"
 	},
 	{
 		"abr": "пальтомойо",
 		"price": 327,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Duster"
 	},
 	{
 		"abr": "шапкамойо",
 		"price": 91,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_Tuque"
 	},
 	{
 		"abr": "традиционнаяшляпамойо",
 		"price": 94,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_CowboyHat"
 	},
 	{
 		"abr": "красиваяшляпамойо",
 		"price": 77,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_BowlerHat"
 	},
 	{
 		"abr": "защитныйкостюммойо",
 		"price": 558,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Bodysuit"
 	},
 	{
 		"abr": "инженерныйкостюммойо",
 		"price": 658,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_EGsuit"
 	},
 	{
 		"abr": "защищающаямаскамойо",
 		"price": 312,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_EGmask"
 	},
 	{
 		"abr": "композитныйзащитныйкостюммойо",
 		"price": 1100,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_Evasuit"
 	},
 	{
 		"abr": "глубоководныйгидрокостюммойо",
 		"price": 3417,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_DDgear"
 	},
 	{
 		"abr": "глубоководныйшлеммойо",
 		"price": 1183,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_DDhelmet"
 	},
 	{
 		"abr": "гидрокостюммойо",
 		"price": 2650,
-		"category": "������ ����",
+		"category": "           ",
 		"defname": "Moyo_LDgear"
 	},
 	{
 		"abr": "шлемотгидрокостюмамойо",
 		"price": 867,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_LDhelmet"
 	},
 	{
 		"abr": "шлемглубоководнойсенсорнойрегуляции(успокаивающийрежим)",
 		"price": 867,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_PShelmet"
 	},
 	{
 		"abr": "шлемглубоководнойсенсорнойрегуляции(режимподавления)",
 		"price": 867,
-		"category": "�������� ����� ����",
+		"category": "                   ",
 		"defname": "Moyo_SShelmet"
 	},
 	{
@@ -14253,103 +14253,103 @@
 	{
 		"abr": "гаечныйключмойо",
 		"price": 272,
-		"category": "�������� ������ ����",
+		"category": "                    ",
 		"defname": "Moyo_Wrench"
 	},
 	{
 		"abr": "ножмойо",
 		"price": 240,
-		"category": "�������� ������ ����",
+		"category": "                    ",
 		"defname": "Moyo_Knife"
 	},
 	{
 		"abr": "забивнойпистолетмойо",
 		"price": 758,
-		"category": "�������� ������ ����",
+		"category": "                    ",
 		"defname": "Moyo_Piledriver"
 	},
 	{
 		"abr": "боевойтопормойо",
 		"price": 1858,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_Spear"
 	},
 	{
 		"abr": "боеваяперчаткамойо",
 		"price": 1750,
-		"category": "�������� ������ ����",
+		"category": "                    ",
 		"defname": "Moyo_PowerFist"
 	},
 	{
 		"abr": "королевскийбоевойтопормойо",
 		"price": 2683,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_GDSpear"
 	},
 	{
 		"abr": "королевскаябоеваяперчаткамойо",
 		"price": 2683,
-		"category": "�������� ������ ����",
+		"category": "                    ",
 		"defname": "Moyo_GDPowerFist"
 	},
 	{
 		"abr": "строительныйпистолетмойо",
 		"price": 458,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_Pistol"
 	},
 	{
 		"abr": "штурмоваявинтовкамойо",
 		"price": 1717,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_ChargeRifle"
 	},
 	{
 		"abr": "снайперскаявинтовкамойо",
 		"price": 1633,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_PrecisionRifle"
 	},
 	{
 		"abr": "пистолет-пулеметмойо",
 		"price": 1333,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_ChargeSMG"
 	},
 	{
 		"abr": "баллистическийпистолетмойо",
 		"price": 2533,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_BoltCaster"
 	},
 	{
 		"abr": "автопистолетмойо",
 		"price": 2650,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_AutoCannon"
 	},
 	{
 		"abr": "королевскаязаряженнаявинтовкамойо",
 		"price": 2500,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_HeavyChargeRifle"
 	},
 	{
 		"abr": "королевскийавтопистолетмойо",
 		"price": 3450,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_HeavyAutoCannon"
 	},
 	{
 		"abr": "криобластермойо",
 		"price": 3450,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_HeavyBoltCaster"
 	},
 	{
 		"abr": "криопушка",
 		"price": 2533,
-		"category": "������ ���� �������� ���",
+		"category": "                        ",
 		"defname": "Moyo_CryoBlaster"
 	},
 	{
@@ -14643,229 +14643,229 @@
 	{
 		"abr": "артроплевра",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Arthropleura"
 	},
 	{
 		"abr": "дедикурус",
 		"price": 1833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Doedicurus"
 	},
 	{
 		"abr": "деодон",
 		"price": 2667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Daeodon"
 	},
 	{
 		"abr": "гигантопитек",
 		"price": 2333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Gigantopithecus"
 	},
 	{
 		"abr": "парацератерий",
 		"price": 6167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Paraceratherium"
 	},
 	{
 		"abr": "титанис",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Titanis"
 	},
 	{
 		"abr": "титанобоа",
 		"price": 4500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Titanoboa"
 	},
 	{
 		"abr": "шерстистыймамонт",
 		"price": 2500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "WoollyMammoth"
 	},
 	{
 		"abr": "эласмотерий",
 		"price": 2167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Elasmotherium"
 	},
 	{
 		"abr": "смилодон",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Smilodon"
 	},
 	{
 		"abr": "халикотерий",
 		"price": 2167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Chalicotherium"
 	},
 	{
 		"abr": "гигантскийолень",
 		"price": 1833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megaloceros"
 	},
 	{
 		"abr": "прокоптодон",
 		"price": 1833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Procoptodon"
 	},
 	{
 		"abr": "мегалания",
 		"price": 3000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megalania"
 	},
 	{
 		"abr": "гигантскийморж",
 		"price": 3333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Gomphotaria"
 	},
 	{
 		"abr": "дипротодон",
 		"price": 2167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Diprotodon"
 	},
 	{
 		"abr": "короткомордыймедведь",
 		"price": 2833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "ShortfacedBear"
 	},
 	{
 		"abr": "динокрокута",
 		"price": 2500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dinocrocuta"
 	},
 	{
 		"abr": "сиватерий",
 		"price": 3000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Sivatherium"
 	},
 	{
 		"abr": "эндрюсарх",
 		"price": 3667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Andrewsarchus"
 	},
 	{
 		"abr": "большоймоа",
 		"price": 2833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dinornis"
 	},
 	{
 		"abr": "макраухения",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Macrauchenia"
 	},
 	{
 		"abr": "квинкана",
 		"price": 3333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Quinkana"
 	},
 	{
 		"abr": "дейнотерий",
 		"price": 2917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Deinotherium"
 	},
 	{
 		"abr": "тур",
 		"price": 1500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Aurochs"
 	},
 	{
 		"abr": "древняячерепаха",
 		"price": 2333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Megalochelys"
 	},
 	{
 		"abr": "гигантскийпингвин",
 		"price": 1833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Palaeeudyptes"
 	},
 	{
 		"abr": "хосефоартигасия",
 		"price": 1833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Josephoartigasia"
 	},
 	{
 		"abr": "гигантофис",
 		"price": 4167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Gigantophis"
 	},
 	{
 		"abr": "меганевра",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Meganeura"
 	},
 	{
 		"abr": "зиголофодон",
 		"price": 3167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Zygolophodon"
 	},
 	{
 		"abr": "платибелодон",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Platybelodon"
 	},
 	{
 		"abr": "пурусзавр",
 		"price": 5333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Purussaurus"
 	},
 	{
 		"abr": "уинтатерий",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Uintatherium"
 	},
 	{
 		"abr": "гигантскийскорпион",
 		"price": 1750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Pulmonoscorpius"
 	},
 	{
 		"abr": "динопитек",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dinopithecus"
 	},
 	{
 		"abr": "гигантскийбобр",
 		"price": 1667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Castoroides"
 	},
 	{
 		"abr": "энгидриодон",
 		"price": 2167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Enhydriodon"
 	},
 	{
@@ -14937,7 +14937,7 @@
 	{
 		"abr": "зловещийволк",
 		"price": 3667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "TM_Dire_WolfR"
 	},
 	{
@@ -16977,25 +16977,25 @@
 	{
 		"abr": "шикигамичерепаха",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "YR_Sikigami_Turtle"
 	},
 	{
 		"abr": "шикигамиенот",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "YR_Sikigami_Racoon"
 	},
 	{
 		"abr": "▽▽",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "YR_Sikigami_Snake"
 	},
 	{
 		"abr": "▼▼",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "YR_Sikigami_Snake_Noroi"
 	},
 	{
@@ -19383,7 +19383,7 @@
 	{
 		"abr": "проти",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Anty_prototype"
 	},
 	{
@@ -20637,13 +20637,13 @@
 	{
 		"abr": "шароовца",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "RS_Bubblelamb"
 	},
 	{
 		"abr": "торраффл",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "RS_Toruffle"
 	},
 	{
@@ -21027,379 +21027,379 @@
 	{
 		"abr": "койот",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Coyote"
 	},
 	{
 		"abr": "жираф",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Giraffe"
 	},
 	{
 		"abr": "бегемот",
 		"price": 1333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Hippopotamus"
 	},
 	{
 		"abr": "зебра",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Zebra"
 	},
 	{
 		"abr": "антилопагну",
 		"price": 567,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Wildebeest"
 	},
 	{
 		"abr": "крокодил",
 		"price": 1333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Crocodile"
 	},
 	{
 		"abr": "гепард",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Cheetah"
 	},
 	{
 		"abr": "бумбат",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Boombat"
 	},
 	{
 		"abr": "кенгуру",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Kangaroo"
 	},
 	{
 		"abr": "коала",
 		"price": 125,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Koala"
 	},
 	{
 		"abr": "утконос",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Platypus"
 	},
 	{
 		"abr": "выдра",
 		"price": 283,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Otter"
 	},
 	{
 		"abr": "полярныйкойот",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_ArcticCoyote"
 	},
 	{
 		"abr": "черныймедведь",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_BlackBear"
 	},
 	{
 		"abr": "абиссинскаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatAbyssinian"
 	},
 	{
 		"abr": "бенгальскаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatBengal"
 	},
 	{
 		"abr": "британскаякороткошерстнаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatBritishShorthair"
 	},
 	{
 		"abr": "мейн-кун",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatMaineCoon"
 	},
 	{
 		"abr": "манчкин",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatMunchkin"
 	},
 	{
 		"abr": "норвежскаялеснаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatNorwegianForest"
 	},
 	{
 		"abr": "персидскаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatPersian"
 	},
 	{
 		"abr": "сиамскаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatSiamese"
 	},
 	{
 		"abr": "сомалийскаякошка",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatSomali"
 	},
 	{
 		"abr": "сфинкс",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_CatSphynx"
 	},
 	{
 		"abr": "гиена",
 		"price": 308,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Hyena"
 	},
 	{
 		"abr": "пустыннаячерепаха",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_DesertTortoise"
 	},
 	{
 		"abr": "лев",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Lion"
 	},
 	{
 		"abr": "ядозуб",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_GilaMonster"
 	},
 	{
 		"abr": "бигль",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Beagle"
 	},
 	{
 		"abr": "чихуахуа",
 		"price": 550,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Chihuahua"
 	},
 	{
 		"abr": "корги",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Corgi"
 	},
 	{
 		"abr": "франзузскийбульдог",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_FrenchBulldog"
 	},
 	{
 		"abr": "немецкаяовчарка",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_GermanShepherd"
 	},
 	{
 		"abr": "датскийдог",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_GreatDane"
 	},
 	{
 		"abr": "пудель",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Poodle"
 	},
 	{
 		"abr": "мопс",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Pug"
 	},
 	{
 		"abr": "ротвейлер",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Rottweiler"
 	},
 	{
 		"abr": "ши-тцу",
 		"price": 500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Shih-Tzu"
 	},
 	{
 		"abr": "вельштерьер",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_WelshTerrier"
 	},
 	{
 		"abr": "бактриан",
 		"price": 533,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Camel"
 	},
 	{
 		"abr": "гремучаязмея",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Rattlesnake"
 	},
 	{
 		"abr": "гигантскийскорпион",
 		"price": 167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Megascorpion"
 	},
 	{
 		"abr": "пингвин",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Penguin"
 	},
 	{
 		"abr": "тюлень",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Seal"
 	},
 	{
 		"abr": "морж",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Walrus"
 	},
 	{
 		"abr": "краснаяпанда",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_RedPanda"
 	},
 	{
 		"abr": "барсук",
 		"price": 458,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Badger"
 	},
 	{
 		"abr": "дикийгусь",
 		"price": 125,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_WildGoose"
 	},
 	{
 		"abr": "бобер",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Beaver"
 	},
 	{
 		"abr": "еж",
 		"price": 42,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Hedgehog"
 	},
 	{
 		"abr": "горилла",
 		"price": 917,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Gorilla"
 	},
 	{
 		"abr": "ягуар",
 		"price": 667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Jaguar"
 	},
 	{
 		"abr": "лемур",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Lemur"
 	},
 	{
 		"abr": "мандрил",
 		"price": 458,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Mandrill"
 	},
 	{
 		"abr": "тапир",
 		"price": 458,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Tapir"
 	},
 	{
 		"abr": "тигр",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Tiger"
 	},
 	{
 		"abr": "аллигатор",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Alligator"
 	},
 	{
 		"abr": "анаконда",
 		"price": 1292,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Anaconda"
 	},
 	{
 		"abr": "индийскийслон",
 		"price": 1000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_IndianElephant"
 	},
 	{
 		"abr": "овцебык",
 		"price": 475,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Muskox"
 	},
 	{
 		"abr": "лось",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Moose"
 	},
 	{
 		"abr": "гигантскаяросомаха",
 		"price": 1417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_MegaWolverine"
 	},
 	{
 		"abr": "дикобраз",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Porcupine"
 	},
 	{
@@ -21423,67 +21423,67 @@
 	{
 		"abr": "черноногийхорек",
 		"price": 292,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_BlackFootedFerret"
 	},
 	{
 		"abr": "черныйносорог",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_BlackRhino"
 	},
 	{
 		"abr": "бонобо",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Bonobo"
 	},
 	{
 		"abr": "моа",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Moa"
 	},
 	{
 		"abr": "большаяпанда",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Panda"
 	},
 	{
 		"abr": "квагга",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Quagga"
 	},
 	{
 		"abr": "хохлатыйпингвин",
 		"price": 200,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_RockhopperPenguin"
 	},
 	{
 		"abr": "тасманийскийдьявол",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_TasmanianDevil"
 	},
 	{
 		"abr": "сумчатыйволк",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Thylacine"
 	},
 	{
 		"abr": "гиеновиднаясобака",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_AfricanWildDog"
 	},
 	{
 		"abr": "гигантскийпанголин",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "AEXP_Pangolin"
 	},
 	{
@@ -21543,55 +21543,55 @@
 	{
 		"abr": "ангорскийкролик",
 		"price": 142,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_AngoraRabbit"
 	},
 	{
 		"abr": "журавль",
 		"price": 792,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Crane"
 	},
 	{
 		"abr": "мегакурица",
 		"price": 1083,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Megachicken"
 	},
 	{
 		"abr": "орангутан",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Orangutan"
 	},
 	{
 		"abr": "павлин",
 		"price": 792,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Peacock"
 	},
 	{
 		"abr": "фазан",
 		"price": 125,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Pheasant"
 	},
 	{
 		"abr": "перепел",
 		"price": 125,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Quail"
 	},
 	{
 		"abr": "королевскийтигр",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_RoyalTiger"
 	},
 	{
 		"abr": "лебедь",
 		"price": 217,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAERoy_Swan"
 	},
 	{
@@ -22137,67 +22137,67 @@
 	{
 		"abr": "гидра",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Hydra"
 	},
 	{
 		"abr": "мегаходка",
 		"price": 583,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Megatardi"
 	},
 	{
 		"abr": "чумогатор",
 		"price": 1250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Pestigator"
 	},
 	{
 		"abr": "токсилиса",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Toxafox"
 	},
 	{
 		"abr": "токсимедведь",
 		"price": 1167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Toxbear"
 	},
 	{
 		"abr": "токсигуана",
 		"price": 250,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Toxiguana"
 	},
 	{
 		"abr": "токсилев",
 		"price": 2000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Toxlion"
 	},
 	{
 		"abr": "токсискорпион",
 		"price": 833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Toxscorpion"
 	},
 	{
 		"abr": "мусорныйкабан",
 		"price": 333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Wasteboar"
 	},
 	{
 		"abr": "мусорныйолень",
 		"price": 417,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Wastedeer"
 	},
 	{
 		"abr": "мусорныймуффало",
 		"price": 750,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "VAEWaste_Wasteffalo"
 	},
 	{
@@ -22611,109 +22611,109 @@
 	{
 		"abr": "boneknapper",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Boneknapper"
 	},
 	{
 		"abr": "changewing",
 		"price": 5000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Changewing"
 	},
 	{
 		"abr": "deadlynadder",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Deadly_Nadder"
 	},
 	{
 		"abr": "deathgripper",
 		"price": 7500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Deathgripper"
 	},
 	{
 		"abr": "deathsong",
 		"price": 5000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Death_Song"
 	},
 	{
 		"abr": "dramillion",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dramillion"
 	},
 	{
 		"abr": "dreadstrider",
 		"price": 8333,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Dreadstrider"
 	},
 	{
 		"abr": "fury",
 		"price": 6667,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Fury"
 	},
 	{
 		"abr": "hideouszippleback",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Hideous_Zippleback"
 	},
 	{
 		"abr": "monstrousnightmare",
 		"price": 5000,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Monstrous_Nightmare"
 	},
 	{
 		"abr": "rumblehorn",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Rumblehorn"
 	},
 	{
 		"abr": "skrill",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Skrill"
 	},
 	{
 		"abr": "snafflefang",
 		"price": 4167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Snafflefang"
 	},
 	{
 		"abr": "snowwraith",
 		"price": 7500,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Snow_Wraith"
 	},
 	{
 		"abr": "speedstinger",
 		"price": 4167,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Speed_Stinger"
 	},
 	{
 		"abr": "stormcutter",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Stormcutter"
 	},
 	{
 		"abr": "thunderdrum",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Thunderdrum"
 	},
 	{
 		"abr": "triplestryke",
 		"price": 5833,
-		"category": "Животные",
+		"category": "Animal",
 		"defname": "Triple_Stryke"
 	},
 	{
