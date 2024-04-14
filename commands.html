@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.4.9
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  
+  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = false; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "light"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/itemlist/assets/js/main.min.js"></script> <!-- CSS --> <link rel="stylesheet" href="/itemlist/assets/css/main.css"> <!--Favicon--> <link rel="shortcut icon" href="/itemlist/assets/img/favicon.png" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <!-- Mermaid 10.8.0 --> <!-- Simple Jekyll Search 1.10.0 --> <script src="/itemlist/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-'; const isCookieConsent = ''; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="/itemlist/"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.7.1 --> <title>Commands | VitPlayGames список покупок</title> <meta name="generator" content="Jekyll v3.9.0" /> <meta property="og:title" content="Commands" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="A custom version of Toolkit’s item list to support all the latest features of Utils." /> <meta property="og:description" content="A custom version of Toolkit’s item list to support all the latest features of Utils." /> <link rel="canonical" href="/itemlist/commands" /> <meta property="og:url" content="/itemlist/commands" /> <meta property="og:site_name" content="VitPlayGames список покупок" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Commands" /> <script type="application/ld+json"> {"url":"/itemlist/commands","description":"A custom version of Toolkit’s item list to support all the latest features of Utils.","headline":"Commands","@type":"WebPage","@context":"https://schema.org"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="VitPlayGames список покупок" href="/itemlist/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="/itemlist/feed.xml" title="VitPlayGames список покупок" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Commands"> <meta name="twitter:description" content="{%- assign showCommands = site.data.commands.size -%}{%- assign buy = "" -%}{%- assign commands_sorted = site.data.commands | sort: "name" -%}{%- for command..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="/itemlist/"> <meta name="twitter:image:alt" content="Commands"> </head>
+  <body>
+    
+    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a class="site-title" aria-label="VitPlayGames список покупок" href="/itemlist/"> VitPlayGames список покупок </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="Commands" title="Commands" href="/itemlist/commands"> <span class="navbar-label ">Commands</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Store" title="Store" href="/itemlist/"> <span class="navbar-label ">Store</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Info" title="Info" href="/itemlist/info"> <span class="navbar-label ">Info</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Mod List" title="Mod List" href="/itemlist/modlist"> <span class="navbar-label ">Mod List</span> </a> </li> </ul> </nav> </header>
+    <div class="content">
+      <article >
+    <header id="main" style="background-image: url('')">
+        <div class="title-padder">
+            
+                <h1 id="Commands" class="title"> Commands</h1>
+                
+            
+        </div>
+    </header>
+    <section class="post-content">
+    
+            <script src="/itemlist/assets/js/filter.js"></script>
+<link rel="stylesheet" href="/itemlist/assets/css/core.css"/>
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script><div id="commands"><input type="text"
+        aria-label="Commandsearchbox"
+        class="search"
+        id="commandsInput"
+        onkeyup="filterTable('commands')"
+        placeholder="Search for commands...">
+<table class="sortable" style="display: table">
+            <thead>
+                <tr>
+                    <th style="width: 35%">Command Name</th><th style="width: 18%">User Level</th><th>Description</th>
+                </tr>
+            </thead>
+
+            <tbody><tr>
+                        <td id="abandon-pawn">
+                            <a href="#abandon-pawn">Abandon pawn</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !уйти
+                                    </span></td><td>Anyone</td><td>Ваша пешка покидает колонию.</td>
+                    </tr><tr>
+                        <td id="all-commands">
+                            <a href="#all-commands">All commands</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !команды
+                                    </span></td><td>Anyone</td><td>Показывает все доступные команды.</td>
+                    </tr><tr>
+                        <td id="buy">
+                            <a href="#buy">Buy</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !купить
+                                    </span></td><td>Anyone</td><td>Купить предмет или событие. Некоторые события, такие как рейд - нужно указывать самостоятельно цену.</td>
+                    </tr><tr>
+                        <td id="chat">
+                            <a href="#chat">Chat</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !поговорить [target]
+                                    </span></td><td>Anyone</td><td>Пешка начинает общаться с рандомной пешкой Если нужно поговорить с конкретной - !поговорить [ник].</td>
+                    </tr><tr>
+                        <td id="check-balance">
+                            <a href="#check-balance">Check balance</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !баланс
+                                    </span></td><td>Anyone</td><td>Показывает текущий баланс, карму и сколько зарабатываешь за цикл.</td>
+                    </tr><tr>
+                        <td id="fix-viewer-pawn">
+                            <a href="#fix-viewer-pawn">Fix viewer pawn</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !починитьимя
+                                    </span></td><td>Anyone</td><td>Использовать если вы купили пешку, но она не с Вашим именем.</td>
+                    </tr><tr>
+                        <td id="flirt">
+                            <a href="#flirt">Flirt</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !флирт [target]
+                                    </span></td><td>Anyone</td><td>Пешка начинает флиртовать с рандомной пешкой Если нужно поговорить с конкретной - !флирт [ник].</td>
+                    </tr><tr>
+                        <td id="full-heal">
+                            <a href="#full-heal">Full heal</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !вылечитьполностью
+                                    </span></td><td>Anyone</td><td>Полностью излечивает Вашу пешку. Стоимость 1000<br/>
+                                <span class="metadata">
+                                    This is a shortcut for 
+                                        !купить вылечитьполностью
+                                    </span></td>
+                    </tr><tr>
+                        <td id="gift-coins">
+                            <a href="#gift-coins">Gift coins</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !датьденег <viewer> <amount>
+                                    </span></td><td>Anyone</td><td>Подарить другому пользователю монеты. Команда в формате: !датьденег <Ник> <кол-во></td>
+                    </tr><tr>
+                        <td id="heal-me">
+                            <a href="#heal-me">Heal me</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !ВылечитьМеня
+                                    </span></td><td>Anyone</td><td>Лечит одну травму. Стоимость 500.<br/>
+                                <span class="metadata">
+                                    This is a shortcut for 
+                                        !купить ВылечитьМеня
+                                    </span></td>
+                    </tr><tr>
+                        <td id="healall">
+                            <a href="#healall">Healall</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !вылечитьвсех
+                                    </span></td><td>Anyone</td><td>Полностью излечивает всех пешек. Стоимость 3000.<br/>
+                                <span class="metadata">
+                                    This is a shortcut for 
+                                        !купить вылечитьвсех
+                                    </span></td>
+                    </tr><tr>
+                        <td id="insult">
+                            <a href="#insult">Insult</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !оскорбить [target]
+                                    </span></td><td>Anyone</td><td>Ваша пешка начинает оскорблять рандомную. Если нужно оскорбить кого-то конкретно - !оскорбить [ник]</td>
+                    </tr><tr>
+                        <td id="join-queue">
+                            <a href="#join-queue">Join queue</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !вочередь
+                                    </span></td><td>Anyone</td><td>Стать в бесплатную очередь на получение своей пешки (из игры).</td>
+                    </tr><tr>
+                        <td id="purchase-list">
+                            <a href="#purchase-list">Purchase list</a><br/>
+                                <span class="metadata">From Twitch Toolkit</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !магазин
+                                    </span></td><td>Anyone</td><td>Ссыль на страницу магазина.</td>
+                    </tr><tr>
+                        <td id="research">
+                            <a href="#research">Research</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !исследование
+                                    </span></td><td>Anyone</td><td>Показывает текущее исследование.</td>
+                    </tr><tr>
+                        <td id="revive-me">
+                            <a href="#revive-me">Revive me</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !воскреситьсебя
+                                    </span></td><td>Anyone</td><td>Воскрешает Вашего персонажа. Стоимость 2000.<br/>
+                                <span class="metadata">
+                                    This is a shortcut for 
+                                        !купить воскреситьсебя
+                                    </span></td>
+                    </tr><tr>
+                        <td id="unstick-me">
+                            <a href="#unstick-me">Unstick me</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !глюк
+                                    </span></td><td>Anyone</td><td>Бывает что команда не срабатывает и зависает. Система в чате сама оповестит что нужно ввести команду от глюков</td>
+                    </tr><tr>
+                        <td id="viewer-body">
+                            <a href="#viewer-body">Viewer body</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !тело
+                                    </span></td><td>Anyone</td><td>Описывает Ваше тело</td>
+                    </tr><tr>
+                        <td id="viewer-gear">
+                            <a href="#viewer-gear">Viewer gear</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !моивещи
+                                    </span></td><td>Anyone</td><td>Показывает что на тебе надето.</td>
+                    </tr><tr>
+                        <td id="viewer-health">
+                            <a href="#viewer-health">Viewer health</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !здоровье
+                                    </span></td><td>Anyone</td><td>Показывает Ваше здоровье.</td>
+                    </tr><tr>
+                        <td id="viewer-kill-count">
+                            <a href="#viewer-kill-count">Viewer kill count</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !сколькоубил
+                                    </span></td><td>Anyone</td><td>Показывает кол-во убитых Вами существ.</td>
+                    </tr><tr>
+                        <td id="viewer-needs">
+                            <a href="#viewer-needs">Viewer needs</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !нужды
+                                    </span></td><td>Anyone</td><td>Показывает Ваши нужды.</td>
+                    </tr><tr>
+                        <td id="viewer-skills">
+                            <a href="#viewer-skills">Viewer skills</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !скилы
+                                    </span></td><td>Anyone</td><td>Умения Вашей пешки.</td>
+                    </tr><tr>
+                        <td id="viewer-stats">
+                            <a href="#viewer-stats">Viewer stats</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !статы
+                                    </span></td><td>Anyone</td><td>Показывает Ваши статы.</td>
+                    </tr><tr>
+                        <td id="viewer-story">
+                            <a href="#viewer-story">Viewer story</a><br/>
+                                <span class="metadata">From ToolkitUtils</span><br/>
+                                <span class="metadata">
+                                    Usage: 
+                                         !история
+                                    </span></td><td>Anyone</td><td>Краткая биография Вашей пешки</td>
+                    </tr></tbody>
+        </table></div>
+
+            
+    </section>
+    <!-- Tag list for portfolio -->
+    
+    
+    <div class="tag-list"></div>
+</article>
+
+    </div>
+    
+    <footer class="site-footer"> <p class="text"> Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a></p> <div class="footer-icons"> <ul> <!-- Social icons from Font Awesome, if enabled --> </ul> </div> </footer>
+  </body>
+</html>
